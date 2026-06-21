@@ -17,7 +17,7 @@ const SITE = {
 
 const CATEGORIES = [
   { slug: "design", name: "设计驱动" },
-  { slug: "solitude", name: "我悲孤雏" },
+  { slug: "solitude", name: "我辈孤雏" },
   { slug: "malotalk", name: "MaloTalk" },
 ];
 
