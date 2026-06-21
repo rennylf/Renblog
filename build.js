@@ -136,13 +136,19 @@ fs.writeFileSync(
 
 // Post pages
 for (const post of posts) {
-  const catHtml = post.category
-    ? `<p class="post-category">分类：<a href="../category/${post.categorySlug}.html">${post.category}</a></p>`
+  const catLabel = post.category
+    ? `<a href="../category/${post.categorySlug}.html" class="article-category">${post.category}</a>`
     : "";
+  // Estimate reading time: ~400 chars/min for Chinese
+  const charCount = post.content.replace(/<[^>]+>/g, "").length;
+  const mins = Math.max(1, Math.round(charCount / 400));
+  const readTime = `阅读约 ${mins} 分钟`;
   const body = render(postTpl, {
     title: post.title,
     date: post.date,
-    category: catHtml,
+    categoryName: post.category || "",
+    categorySlug: post.categorySlug || "",
+    readTime,
     content: post.content,
     base: "../",
   });

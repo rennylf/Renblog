@@ -1,9 +1,21 @@
+<nav class="article-nav">
+  <a href="{{base}}index.html" class="article-nav-back">← 首页</a>
+  <a href="{{base}}category/{{categorySlug}}.html" class="article-nav-cat">{{categoryName}}</a>
+</nav>
 <article>
-  <h1>{{title}}</h1>
-  <time datetime="{{date}}">{{date}}</time>
-  {{category}}
-  <div class="post-body">
+  <header class="article-header">
+    <a href="{{base}}category/{{categorySlug}}.html" class="article-category">{{categoryName}}</a>
+    <h1>{{title}}</h1>
+    <div class="article-meta">
+      <time datetime="{{date}}">{{date}}</time>
+      <span class="meta-dot">&middot;</span>
+      <span class="meta-readtime">{{readTime}}</span>
+    </div>
+  </header>
+  <div class="article-body">
     {{content}}
   </div>
+  <footer class="article-footer">
+    <a href="{{base}}index.html" class="back-link">← 返回首页</a>
+  </footer>
 </article>
-<a href="{{base}}index.html" class="back-link">← 返回首页</a>
