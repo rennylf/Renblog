@@ -5,7 +5,7 @@ category: 设计驱动
 tags: []
 ---
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/2V40UerANibtjticIWLy9Bo41Map2VBAKja2feP1eh4fAsdicVNDb3YmYTgqfG5DaZ9qPBx7icqialMKncHls52aQ1A/640?wx_fmt=jpeg&from=appmsg)
+![](../images/qialMKncHls52aQ1A640wx_fmtjpegfromappmsg.jpeg)
 
 在《人人都是产品经理》一书中，苏杰 \[1\] 以自己在阿里的经历为例，描述了产品经理（PM）的成长路径。从执行开始，再到策略、项目管理、带团队、战略，最后成为专家。分别回答了“怎么做、做多少、如何落地、做不做”的问题。这个路径在理论上很合理。但在传统车企里，要复制却并不容易。
 

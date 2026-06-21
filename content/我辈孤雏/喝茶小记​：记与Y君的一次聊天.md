@@ -5,7 +5,7 @@ category: 我辈孤雏
 tags: []
 ---
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/2V40UerANibuAHuQEnSUITodcHJoe2zlprFqv0gibRW59qEwScDYbtmlL2ibzon124MVO5NeogoNhlHibBOkF4Sswg/640?wx_fmt=jpeg)
+![](../images/124MVO5NeogoNhlHibBOkF4Sswg640wx_fmtjpeg.jpeg)
 
     喝茶，对我而言，是件寻常又属于考究的事情。一面是从小就受到家里喝茶的影响，而一面从未认真想过这回事。对茶叶感兴趣出自于偶然:某个平淡的工作日，午休结束后的当儿，想喝杯饮料。我点开外卖小程序，翻找了十来分钟，迟迟没找到想喝的。现在的饮品，诸如奶茶、汽水、拿铁一类，总是令人担忧健康问题，一杯下肚，糖分肯定是超标了，此外，它们的价格也不断攀升，加上包装费、配送费，就不够实惠。于是我想到了茶，纯天然的饮品，能给嘴里添点味道，又不至于摄入太多糖，而且价格适中，尤其泡茶还自带仪式感，简直是切换状态的最佳办法。
 

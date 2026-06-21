@@ -10,7 +10,7 @@ tags: []
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibuOEiaicoEUwwvGbYT5SRNicEY4KNEvH0CmMWIia088ebLSQsEH9Ak17KuOs846K9baia0UwAJOcoq65dw/640?wx_fmt=png&from=appmsg)
+![](../images/9baia0UwAJOcoq65dw640wx_fmtpngfromappmsg.png)
 
 《willow》收录于Taylor 的第九章专辑《Evermore》中，作为专辑主打单曲发型。Willow 属于一首民谣歌曲，在歌词写作方面，Taylor 充分展示自己的浪漫心态，她想展现的是对所爱之人的极度渴望，甚至不惜使用诡计，如同女巫施法一般，让对方爱上自己。
 

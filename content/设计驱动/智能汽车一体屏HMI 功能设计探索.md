@@ -12,7 +12,7 @@ tags: []
 
 尽管越来越多车型覆盖了这些屏幕区域，但屏幕组合方式存在差异，主要分为独立多屏、多联屏和一体屏，三者在产品形态、功能体验和性能要求上各有不同。「独立多屏」：各屏幕功能独立，内容流转受限，且屏幕素质差异可能导致体验割裂。「多联屏」：物理上连为整体，但依然有分隔边框，视觉体验提升，但功能流转仍存在摩擦。「一体屏」：采用一整块无物理分隔的大屏，观感统一，带来沉浸体验，同时对芯片性能提出更高要求。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/2V40UerANibubEEtXVbqbTekYU043wDkUnSP95jIlkAB3otB90CbB8ddAtatUNc5WBn7UNz7dbGgfvw8r7ADIvQ/640?wx_fmt=jpeg)
+![](../images/UNc5WBn7UNz7dbGgfvw8r7ADIvQ640wx_fmtjpeg.jpeg)
 
 屏幕类型（来源：NapkinAI辅助）
 
@@ -31,13 +31,13 @@ tags: []
 
 从产品角度来看，车载显示屏主要承担驾驶辅助与信息娱乐两大核心价值。一体屏在驾驶辅助方面的赋能，主要体现在信息展示的提升上，例如智己LS6所搭载的全画幅数字驾驶屏，能够实时呈现全屏SR（Surround Reality）画面，在SR之上通过悬窗形式展示盲区影像，同时叠加路边商铺信息及Carlog旅行记录功能，极大丰富了驾驶过程中的信息获取与感知。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibubEEtXVbqbTekYU043wDkUR42ddKkiazI4k1NnPHAXJN1bd6ibD72nFWNo50lEn2YVvBCC6YNTlmEw/640?wx_fmt=png&from=appmsg)
+![](../images/lEn2YVvBCC6YNTlmEw640wx_fmtpngfromappmsg.png)
 
 智己 LS6（来源：官网）
 
 在信息娱乐方面，一体屏通过极具冲击力的视觉体验提升了用户感受，如银河E8采用全屏实时主题，将车内外环境自然融合，部分娱乐应用还能联动座舱硬件，例如赛车游戏与方向盘动态同步，带来沉浸感更强的娱乐体验。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibubEEtXVbqbTekYU043wDkU4GKmiad71NicnyStcSKhHORbqFgPUH7n43icoTfHNuqJg593icUVh2dxqA/640?wx_fmt=png&from=appmsg)
+![](../images/NuqJg593icUVh2dxqA640wx_fmtpngfromappmsg.png)
 
 银河 E8（来源：官网）
 
@@ -52,7 +52,7 @@ tags: []
 
 针对双区一体屏设计，业内已有可参考的探索，包括微软（双屏设计规范）、Oppo/小米/华为（折叠屏设计规范）。在此基础上，结合车载场景实践，笔者归纳出五种双区一体大屏HMI屏幕模式，分别是传统分区、沉浸全屏、主从分屏、对比分屏、小窗模式。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibubEEtXVbqbTekYU043wDkU1MDbneQDHTONK4fAlFg63dMHaUY6IWqH6LpwVRV5ZHtmk3REfiaP7NA/640?wx_fmt=png&from=appmsg)
+![](../images/RV5ZHtmk3REfiaP7NA640wx_fmtpngfromappmsg.png)
 
 一体屏 HMI 屏幕模式（来源：笔者自绘）
 
@@ -60,33 +60,33 @@ tags: []
 
 沉浸全屏是指将应用铺满全屏，它可以显示更多内容，进而提升用户获取信息的效率，并且带来更沉浸的视觉观感。如银河E8的无界桌面，车模环境贯穿三个分区，整体和谐统一，审美价值较高。此外，该车也搭载了实验室、赛车类游戏、全屏影院等全屏App，沉浸式体验突出。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibubEEtXVbqbTekYU043wDkUG7wjFwoev4QCCibibSuXSLYCcRvGC5sibldAibibpoTmR7DIexQcHIkyjew/640?wx_fmt=png&from=appmsg)
+![](../images/oTmR7DIexQcHIkyjew640wx_fmtpngfromappmsg.png)
 
 银河 E8 无界桌面（来源：官方B站号）
 
 主从分屏是指屏幕展示同一应用的两个不同视图，通常是列表视图和详情视图结合。用户同时查看，这可以减少反复跳转，操作更便捷。如银河E8在中控区使用地图App设定路线时，点击扩展按钮，会在仪表区展示地图导航；在使用KTV 功能时，点击扩屏按钮，可以设置一个区展示视频播放，另一个区展示列表。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibubEEtXVbqbTekYU043wDkUa4GnP8JrvPSiaj5apk3FsibyYlkQkDUEtCZ9ZeFBVoqHT4Se3wH5Wgog/640?wx_fmt=png&from=appmsg)
+![](../images/FBVoqHT4Se3wH5Wgog640wx_fmtpngfromappmsg.png)
 
 银河 E8 地图分屏（来源：官方B站号）
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibubEEtXVbqbTekYU043wDkUv3JqTAzYbJl9JOE2adguiaR40Brp65B1uVUOWFicgbrIKflhEVwj2zzw/640?wx_fmt=png&from=appmsg)
+![](../images/icgbrIKflhEVwj2zzw640wx_fmtpngfromappmsg.png)
 
 银河 E8 KTV 应用（来源：B站博主）
 
 对比分屏是指屏幕呈现两个具有关联的应用，两者所提供的内容可以实时呼应。相关联的内容可以用不同形式展示，这便于用户理解。例如在极越 01中控区点击某些设置项（如灯光）时，仪表区的车模会联动展示部位。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibubEEtXVbqbTekYU043wDkUe9HspJDRvcVVAO25uZ8tl2pD6py2AsJfDsHa9NyYzbwIDhH9XQAysQ/640?wx_fmt=png&from=appmsg)
+![](../images/9NyYzbwIDhH9XQAysQ640wx_fmtpngfromappmsg.png)
 
 极越 01 设置项车模联动（来源：小红书博主）
 
 小窗模式是指将临时的或者更深层级的信息/按钮，通过小窗展示出来，减少了多任务对当前任务的干扰，也可改善部分内容层次过深的问题。例如智己的雨夜模式，利用小窗提供视野补盲，提升了行车的安全；又如Flyme auto，播放音乐将以小面板的形式出现在中控区。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibubEEtXVbqbTekYU043wDkU995GOziaqy8j1P6pVDLff3NMJjlEE2QLxKrVMGiayrOPVcneCEibkhKvg/640?wx_fmt=png&from=appmsg)
+![](../images/ayrOPVcneCEibkhKvg640wx_fmtpngfromappmsg.png)
 
 智己 LS6 雨夜模式（来源：B 站官方号）
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibubEEtXVbqbTekYU043wDkUWeRznv4Ff9oMlGNiavX1NPlgT4CT13rfm3ehXXib7GmFJgn5hDF0fibZw/640?wx_fmt=png&from=appmsg)
+![](../images/b7GmFJgn5hDF0fibZw640wx_fmtpngfromappmsg.png)
 
 银河 E8 小窗模式（来源：官方B站号）
 
@@ -98,7 +98,7 @@ tags: []
 
 结合屏幕模式和功能创新路径，建立功能创新矩阵。可以得到如下创新模式：开发全新的大屏App、现有App全屏适配、现有App主从屏适配、现有App小窗设计、现有多个App联动设计、对整体分屏交互设计。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibubEEtXVbqbTekYU043wDkU2dUztnbNydl6Ay1IR7ez0BXZmYZS7KebdQLOCKM3icE5HaaNBaQrnAg/640?wx_fmt=png&from=appmsg)
+![](../images/KM3icE5HaaNBaQrnAg640wx_fmtpngfromappmsg.png)
 
 一体屏 HMI 功能创新框架（来源：笔者自绘）
 
@@ -129,13 +129,13 @@ tags: []
 
 基于主流车机和移动设备（iPad、折叠屏）的分屏交互设计，可以把分屏交互归类为分屏进入、比例调节、位置交换、退出分屏四种。首先，讨论承载这些交互的控件，它大概可以分操纵杆（如下图，三个圆点组成的控件）和按键两种。操作杆支持点按、按住拖动操作，而按钮只支持点按。简单分析可知，按住拖动在比例调节、位置交换方面具有更加自然的优势，并且无需设置多个按钮以满足交互需求，界面更加简洁。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibubEEtXVbqbTekYU043wDkUVmfJlSr6brLoz5jBWSAJyQHoP4bhNf2YuTYgYsPWtOIodbK0c1hfsw/640?wx_fmt=png&from=appmsg)
+![](../images/YsPWtOIodbK0c1hfsw640wx_fmtpngfromappmsg.png)
 
 小米 su7分屏交互控件（来源：官方小红书）
 
 其次，再看四个交互（参考对比表）。① 分屏进入可以分为手动和自动两种，手动进入可以细分为两种，一是点按操作杆，进行弹窗交互；另一种是直接拖动进入半屏后，选择第二个APP。② 比例调节并非所有车机都支持，在支持的车机中，比例也是有限制的，例如小米车机支持1/3和2/3两种比例。③ 位置交换的操作可以分为点击按钮、按住拖移、多指手势3种。④ 退出分屏也可以分为手动和自动（考虑行车安全）两种，手动退出可以细分为两种，一是点按操作杆，进行弹窗交互；另一种是直接拖动退出。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibubEEtXVbqbTekYU043wDkUsNyiaCXENsvhx5CMbN1q0naMCkk8VVrrSjJzzBnMIwbRAY2Xl8W4XYw/640?wx_fmt=png&from=appmsg)
+![](../images/BnMIwbRAY2Xl8W4XYw640wx_fmtpngfromappmsg.png)
 
 主流车机分屏交互对比（来源：笔者自绘，具有时效性，仅供参考）
 

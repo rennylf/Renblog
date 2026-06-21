@@ -11,7 +11,7 @@ tags: []
 
         无论是在学界还是在业界，文献（期刊、学位论文等）都是重要的研究资料。文献可以帮助我们了解某领域的知识，也能作为我们论证和下结论的依据，但这都建立在“大量”的基础上。文献管理，尤其在较短周期的项目中，显得非常重要。好的文献管理可以减少手动工作量，提升整个研究过程的效率。本系列文章的目的旨在介绍基于Zotero软件的文献管理办法，特别是在短期研究项目的应用，希望带给有文献研究需求的读者一些参考。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibuficUodOAeIwEbhl3fzBXRzSl6VEic2avnmVc3MQFlSD3L9d9zY84PnxsVLLazbYEcNdEYxicxJxNdA/640?wx_fmt=png)
+![](../images/84PnxsVLLazbYEcNdEYxicxJxNdA640wx_fmtpng.png)
 
 本系列文章共两篇，上篇文章见：[文献研究提效：Zotero的使用教程 01](http://mp.weixin.qq.com/s?__biz=MzIwNzQyNTEzOQ==&mid=2247484053&idx=1&sn=177474410b97144d40f52897e33cc4b4&chksm=9713d989a064509f508789179b9cb97094f0503eee6589534b31c1c76f08445afb45174b2424&scene=21#wechat_redirect)
 
@@ -47,7 +47,7 @@ tags: []
 
         选中你需要导出的文献或分类，右键单击，在弹出的菜单中选择导出条目或分类。把导出的格式设定为CSV，这样你就会得到一份文献的基本信息表格，建议删除不需要的信息种类，保留最核心的信息，例如标题、作者、年代、文献种类、期刊来源等。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibtfgQeVDkxh3CZq8JmyJ2MjWtCWib68lfD34PXQOribFxRdSOibyL0V4THdAibNCCRAHtwWXsWKQ1j4cw/640?wx_fmt=png)
+![](../images/0V4THdAibNCCRAHtwWXsWKQ1j4cw640wx_fmtpng.png)
 
         在删减完基本信息之后，你可以在后面加上你要抽取的内涵信息类别。形成一份完整的框架，你可以在阅读文献的过程中，填充你的框架内容，作为你分析的基础。
 
@@ -60,11 +60,11 @@ tags: []
 
         Pdf类型的文献都可以Zotero中打开阅读，在Zotero的阅读窗口提供了很多基础的功能，例如调整视图大小、跳转页面等。在相对较长的文献中，可以多用搜索来定位到你想要看的内容。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibtfgQeVDkxh3CZq8JmyJ2MjjKHtaCRlrk4v67yHSehjd80Av0ExfpLIvjmMbyQ3REOwRiaiack7CicicQ/640?wx_fmt=png)
+![](../images/LIvjmMbyQ3REOwRiaiack7CicicQ640wx_fmtpng.png)
 
         在文献研究过程中难免遇到英文文献，可能需要消费较多时间在解决语言带来的困难上。Zotero pdf Translate可以帮助你降低阅读英文的压力。安装Zotero pdf Translate后，在你划选文献内容时，鼠标下方会出现悬浮窗，显示对应的翻译文本，同时它也会常驻在右侧的面板里。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibtfgQeVDkxh3CZq8JmyJ2Mjic6C0v1VUDmLfBslJmZmYBEfv3oJB41kwPLH5Eqg5x3fUBOuw0jnXBQ/640?wx_fmt=png)
+![](../images/JB41kwPLH5Eqg5x3fUBOuw0jnXBQ640wx_fmtpng.png)
 
         你可以在编辑>首选项里找到Translate选项卡，对这个插件做更多的设置，开启或者关闭其他功能，例如自动翻译批注。
 
@@ -81,13 +81,13 @@ tags: []
 
         所有的标注都可以在左侧的面板找到，你可以对标注的内容进行评论、贴标签。你可以搜索标注的内容，点击标注列表的项目，可以定位到文献的位置。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibtfgQeVDkxh3CZq8JmyJ2Mj3C9l4aUbyGnmJ5eOQKibnzSPobHQNN38OekdM7a4S1w3ZcGrTMUGDpQ/640?wx_fmt=png)
+![](../images/QNN38OekdM7a4S1w3ZcGrTMUGDpQ640wx_fmtpng.png)
 
         （2）笔记
 
         Zotero有两种独立笔记和条目笔记两种笔记，区别在于它们是否归属于某个条目。在你对文献进行了批注以后，你可以选择提取所有注释生成一篇条目笔记。在笔记中包括内容和原文定位的链接。Zoteor的笔记支持Markdown语法，你快速上手它，做一些简单的格式排版。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibtfgQeVDkxh3CZq8JmyJ2MjWQKTSsPqvibiavSKJJCdsvXYcPIgib0utgCp0fhvWTvhw7vTneZxHqytw/640?wx_fmt=png)
+![](../images/b0utgCp0fhvWTvhw7vTneZxHqytw640wx_fmtpng.png)
 
 **引用参考文献**
 ----------
@@ -100,7 +100,7 @@ tags: []
 
         参考样式是对引注和参考文献目录的标准化的格式。在编辑>首选项>引用中，你会找到Zotero的样式管理器，里面已经内置了大量的参考文献样式，例如APA、IEEE等。你可以点击“获取更多样式”，在搜索框中输入“GB”，来获取我国文献的标准格式。如果你没找到符合你需求的样式，可以找到一个相近的样式，然后在它的基础上进行改编，这不会太难。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibtfgQeVDkxh3CZq8JmyJ2Mjm9NhKLVOZOpxic66sLXHl6Pg510bzeyPFAx7arJqm4rf7sFXRaqiaN9A/640?wx_fmt=png)
+![](../images/zeyPFAx7arJqm4rf7sFXRaqiaN9A640wx_fmtpng.png)
 
         （2）快捷引注
 
@@ -108,7 +108,7 @@ tags: []
 
         那么如何做记号？相比于留下文献标题或者作者什么的，一个更好的办法是使用Better BibTex for Zotero插件，这个插件可以给每个条目生成一个独一无二的Citation key。你可以设置它的格式（在首选项内），例如第一作者名+年份。当你有了Citation key就可以使用这个key在论文/报告中做记号。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibtfgQeVDkxh3CZq8JmyJ2MjmO0G8TAicgGA7FAGPkN7jcOYmMzUrEMS9GbttEgFngXfSSFG2lD0cEg/640?wx_fmt=png)
+![](../images/UrEMS9GbttEgFngXfSSFG2lD0cEg640wx_fmtpng.png)
 
         （3）自动生成参考文献目录
 
@@ -124,7 +124,7 @@ tags: []
 
         ⑤ 将鼠标移动到参考文献目录的位置，最后点击“Add/Edit Bibliography”，如果后续有改动，可以点击“refresh”更新。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibtfgQeVDkxh3CZq8JmyJ2MjppD22JlcN6n99ibRWTNdbbWhT55ZDtEnzgNN2UNP3oQ3yiabubxVfCOA/640?wx_fmt=png)
+![](../images/DtEnzgNN2UNP3oQ3yiabubxVfCOA640wx_fmtpng.png)
 
 **附：关于条目的导出**
 -------------

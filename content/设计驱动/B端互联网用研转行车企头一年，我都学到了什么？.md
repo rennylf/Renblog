@@ -7,7 +7,7 @@ tags: []
 
 2022年毕业后，我通过校招进入一家互联网金融公司，从事B端用户研究。2024年初，我转入一家车企，开始做需求分析。这篇文章基于我的2024年终工作总结，尝试从**业务认知、驱动模式、内部建设**三个方面，回顾这个人观察与体会，也许能为考虑转行的朋友提供一些参考。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/2V40UerANibtjticIWLy9Bo41Map2VBAKja2feP1eh4fAsdicVNDb3YmYTgqfG5DaZ9qPBx7icqialMKncHls52aQ1A/640?wx_fmt=jpeg&from=appmsg)
+![](../images/qialMKncHls52aQ1A640wx_fmtjpegfromappmsg.jpeg)
 
 **一、业务认知：专业属性 VS 人文属性**
 

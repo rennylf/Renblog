@@ -5,7 +5,7 @@ category: 设计驱动
 tags: []
 ---
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/2nmqEIXKCRIQymwUadYwYQMFX8pRfIIaN6zfWLwUXJZJhfk9tdYAy592qEo9dfSsibow0icaJOlusviaDVtMtP9aswuMVvjNUkGt2dwYTdE8yw/640?wx_fmt=png&from=appmsg)
+![](../images/VvjNUkGt2dwYTdE8yw640wx_fmtpngfromappmsg.png)
 
 00 为什么做
 =======
@@ -41,7 +41,7 @@ tags: []
 
 基于上述反思，我对流程进行了 2.0 版本的迭代。
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/2nmqEIXKCRJqPlhpkJhn1QC53HIt5sdicX2VOVhsHSWhuJsDOXpNP4GgJmnbwLVAD4yTH8GjvauB5Wnm1B0y9vDx3pt9dSjvbt0eu6JdPFJg/640?wx_fmt=png&from=appmsg)
+![](../images/t9dSjvbt0eu6JdPFJg640wx_fmtpngfromappmsg.png)
 
 在 2.0 版本中，流程开始阶段引入了一个关键分支：
 
@@ -54,7 +54,7 @@ tags: []
 
 与 1.0 不同的是，2.0 要求大模型同时给出 3 个可选框架方案，并明确呈现其差异。用户需要在此基础上进行选择、取舍或补充意见。后续的局部补全与风险识别，均建立在这一“人机协同确认后的结构”之上。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2nmqEIXKCRIvT6wXnhUghRyiaosXwLibcS4DHAtQ7Jl9DQ4bficPqQk1vfdTAC3micDdZJzMibNb7VhPqWP4ZIZVdR39UnxsmMST5YrYzgJnHScc/640?wx_fmt=png&from=appmsg)
+![](../images/xsmMST5YrYzgJnHScc640wx_fmtpngfromappmsg.png)
 
 在这里，AI 的角色被明确限定为： 框架假设的扩展者，而非最终答案的裁决者。而人的角色，则是对结构进行判断、收敛与修正。
 
@@ -70,27 +70,27 @@ tags: []
 
 本 DEMO 以网页端形式展示。用户可通过 malolo 输入框上方的快捷指令「场景分析」启动工作流。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2nmqEIXKCRKTd5HINwrYtiaybibN2gWYfMTzI4XYpLicsjgiaD3roLsjVWCIKViaPWpeDsL1fHYiaSGJhyrWbtdLd5wc7BmVDOFsEOv2Lic5vCeQvo/640?wx_fmt=png&from=appmsg)
+![](../images/DOFsEOv2Lic5vCeQvo640wx_fmtpngfromappmsg.png)
 
 按照指引输入功能/技术名称，并选择是否已有场景框架假设。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2nmqEIXKCRIgVJOHAY8sle0DqgVsXKW4kibfCGpYNubDjqnCbYAWEM0IskJfsO4fVkPMgXOf6AnAQN0mDuL9kt5TsOjMVpTUiakIULhicpIDQY/640?wx_fmt=png&from=appmsg)
+![](../images/VpTUiakIULhicpIDQY640wx_fmtpngfromappmsg.png)
 
 在无假设的情况下，malolo 将首先分析该功能或技术的基本特征。
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/2nmqEIXKCRL2hicbiclRrhfcaEvkE4sA3WRERAGNSbLRmzd0In9FkxjlicEhuh8tCEoTibzb1ACJ7awbSJUA8sTTZanPjQIqZv4en9EaMlS5tys/640?wx_fmt=png&from=appmsg)
+![](../images/QIqZv4en9EaMlS5tys640wx_fmtpngfromappmsg.png)
 
 随后给出三个不同的框架假设方案，并邀请用户进行决策与补充。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2nmqEIXKCRJhic0xXnBbYPChPicwm9XF5w1NiaC581XFJXYDh1PgJfL1O0ibyDNzcykIQKDMwiaHnAW5Ieec6geFGHnGvia7yV8InMfiaMkwlflRWo/640?wx_fmt=png&from=appmsg)
+![](../images/yV8InMfiaMkwlflRWo640wx_fmtpngfromappmsg.png)
 
 在整合用户选择与意见后，流程进入局部场景补全与风险识别阶段，逐步形成场景库。
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/2nmqEIXKCRKuXDBTONibY1euGyic5TrxibdWr8Qm4vP8lLpr1ukJnYBcDsuQk2rsDs8bZaITVW7IZVknHGQeFE2ibE4Loia5CmrfALGSJdEIl8pY/640?wx_fmt=png&from=appmsg)
+![](../images/a5CmrfALGSJdEIl8pY640wx_fmtpngfromappmsg.png)
 
 最终，malolo 会基于全过程输出一份结构化的场景分析报告。
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/2nmqEIXKCRLZAXfBgf27gPI0Wp2wEjZPZEeicFMic0O12sQp3lnc8nxpf66pPrfI5ia0vHVXtIcm0GgTgAUcAfmj9y5LaAHI0JFa4UQchGKZ4A/640?wx_fmt=png&from=appmsg)
+![](../images/aAHI0JFa4UQchGKZ4A640wx_fmtpngfromappmsg.png)
 
 05 优化路线
 =======

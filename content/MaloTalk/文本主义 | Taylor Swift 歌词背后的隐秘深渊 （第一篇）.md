@@ -26,7 +26,7 @@ tags: []
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/2V40UerANibvpsB8OzcbhqEplRDGK9EdDbtSsgoGJAffQnRm5nh8SgfKCS8glrnRsxsIsbQzjNatFPwK49LYuLw/640?wx_fmt=jpeg&from=appmsg)
+![](../images/QzjNatFPwK49LYuLw640wx_fmtjpegfromappmsg.jpeg)
 
 《Seven》收录于Taylor 的第八张个人专辑《Folklore》，据介绍是本专辑的创作的第二首歌曲，其怀旧抒情的风格也为整张专辑定下基调。整首歌曲由taylor 的歌声和钢琴领奏，以原生吉他、鼓点和弦乐辅助，将一首童年挽歌娓娓道来。以下将基于文本，阐释歌曲的故事、文学以及启发。
 

@@ -5,7 +5,7 @@ category: 设计驱动
 tags: []
 ---
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibsOicic0AfUIzib4flrEEG5E4cjgOLN7Vxeib05NQ6OBAexawGvJeCOSNLRU1wF8qCks0ic1O5rt2GSqpg/640?wx_fmt=png&from=appmsg)  
+![](../images/qCks0ic1O5rt2GSqpg640wx_fmtpngfromappmsg.png)  
 
 **摘要**
 
@@ -31,7 +31,7 @@ tags: []
 
 **设计输出阶段：**产出最终的高保真原型图，并初步匹配包装文案。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibsOicic0AfUIzib4flrEEG5E4cSibeJIs7AwDCAxMJee0CnCoDqtjLZs5ib69X32I4f0vsic4yQK6nvFQDQ/640?wx_fmt=png&from=appmsg)
+![](../images/4f0vsic4yQK6nvFQDQ640wx_fmtpngfromappmsg.png)
 
 **3 项目产出**
 
@@ -41,35 +41,35 @@ tags: []
 
 研究收集并筛选出23篇相关文献，从文献中提取办展目标/定位、展览的趋势、核心场景、展览形式、作品特点、办展阻力，进行梳理和总结。核心洞察是：线上化有利于发挥毕业设计展览的价值，即展示设计教育的成果，以及作为专业交流的平台，但需要解决各方利益相关者的问题：对高校以及其他管理者而言，需要降低开发维护成本，需要便利的展览和作品管理；对于毕业生而言，需要降低线上化的负担，能够公平提供更多曝光以及与外界交流的机会；对观众来说需要做到简单易用，提供一定的沉浸感。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibsOicic0AfUIzib4flrEEG5E4ccxr7DaXEBWvHpRTQ5HEflClspY3R5v32MnEX07POic5GcwdQYtjaTKg/640?wx_fmt=png&from=appmsg)
+![](../images/7POic5GcwdQYtjaTKg640wx_fmtpngfromappmsg.png)
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibsOicic0AfUIzib4flrEEG5E4crW4ChoSsNH6kOZKHY3JcacXwmEdKM8wUntnPkOyvddcmiaFHoJb3RlQ/640?wx_fmt=png&from=appmsg)
+![](../images/OyvddcmiaFHoJb3RlQ640wx_fmtpngfromappmsg.png)
 
 3.1.2 用户访谈  
 
 通过访谈，研究总结三类利益相关者的画像，并绘制了用户体验地图（以华南理工大学设计学院毕业展览流程为例）
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibsOicic0AfUIzib4flrEEG5E4cQ6ic0GiawLV59Mmxs81F7QicVPxOVUvIoevFuBwwC4CfN0RicvswvJ5aZg/640?wx_fmt=png&from=appmsg)
+![](../images/C4CfN0RicvswvJ5aZg640wx_fmtpngfromappmsg.png)
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibsOicic0AfUIzib4flrEEG5E4c54EGnibmMM3JVhibsgLhOGMLQciaxTenYgCLicrDy6RDk1zbp8KkrmiaBlA/640?wx_fmt=png&from=appmsg)
+![](../images/6RDk1zbp8KkrmiaBlA640wx_fmtpngfromappmsg.png)
 
 3.1.3 竞品分析
 
 研究对比了三款潜在竞品，发现并没有针对全体高校毕业生的作品集展示网站，而是众多来源混杂在一起。多数网站止步于提供简单的图文编辑功能，发表作品具有一定的门槛。网站的作品展示较为片面，浏览者难以了解作品的详情，达不到学习交流的目的
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibsOicic0AfUIzib4flrEEG5E4ch2PYWHK60AKJicIGVqKG5cibGQMOUH5TwoYhKMpMQL811CMjzoLY3VDA/640?wx_fmt=png&from=appmsg)
+![](../images/pMQL811CMjzoLY3VDA640wx_fmtpngfromappmsg.png)
 
 **3.2 设计定义**
 
 1.0 阶段专注于面向创作者和面向观众的模块设计，基于头脑风暴和卡片分类，初步整理如下功能和信息概念。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibsOicic0AfUIzib4flrEEG5E4cLq9nlQ5YFWt5VaQQuCKE9agdRRDFC5fTv020hl0aTAjU3LQ0DFOJaA/640?wx_fmt=png&from=appmsg)
+![](../images/hl0aTAjU3LQ0DFOJaA640wx_fmtpngfromappmsg.png)
 
   
 
 对功能和信息进行梳理，输出功能信息架构，指导后续原型设计。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibsOicic0AfUIzib4flrEEG5E4codMLZjvAY6EEJOrvtVs5FdMyVlFrZn8IGnqtl4tVP1sdicRSqD734Ow/640?wx_fmt=png&from=appmsg)
+![](../images/4tVP1sdicRSqD734Ow640wx_fmtpngfromappmsg.png)
 
 **3.3 设计发展**
 
@@ -77,39 +77,39 @@ tags: []
 
 （1）网站首页
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibsOicic0AfUIzib4flrEEG5E4cMSXFbqesqNiaGS4scnILEQkVsYZ3CMA6reb2qWqvbCz9PNMy9mQdV2Q/640?wx_fmt=png&from=appmsg)
+![](../images/WqvbCz9PNMy9mQdV2Q640wx_fmtpngfromappmsg.png)
 
 （2）作品主页
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibsOicic0AfUIzib4flrEEG5E4cqq4miafZFicibpPBITTPYd5roTGLMloGiavTCMicczr1UiajOcdKLll5pjBw/640?wx_fmt=png&from=appmsg)
+![](../images/r1UiajOcdKLll5pjBw640wx_fmtpngfromappmsg.png)
 
 （3）展览页
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibsOicic0AfUIzib4flrEEG5E4cZiaD6uG0tc2Z1J3ia6nwR2JqLondKjwTSTOw7dKROeZVVlmIj02Z8jZw/640?wx_fmt=png&from=appmsg)（4）排行榜和专访 
+![](../images/KROeZVVlmIj02Z8jZw640wx_fmtpngfromappmsg.png)（4）排行榜和专访 
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibsOicic0AfUIzib4flrEEG5E4ccNzOryMbBhpSJWXCFTMbgNKxrRz3huhNm18XQCYEwtUfYzPFDxzQWQ/640?wx_fmt=png&from=appmsg)（5）作品上传页 
+![](../images/QCYEwtUfYzPFDxzQWQ640wx_fmtpngfromappmsg.png)（5）作品上传页 
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibsOicic0AfUIzib4flrEEG5E4cz8j9HjUDxDD1OYp8RKCE9TTUev0ia7eibBiaaWMZR98ep1JSLdtIXwITw/640?wx_fmt=png&from=appmsg)
+![](../images/ZR98ep1JSLdtIXwITw640wx_fmtpngfromappmsg.png)
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibsOicic0AfUIzib4flrEEG5E4cEjmCKrRHd3FibsYmAJxl2w9SQaibKU5Fib3hO0qItWnq5Xk3VPlb4yxicg/640?wx_fmt=png&from=appmsg)
+![](../images/tWnq5Xk3VPlb4yxicg640wx_fmtpngfromappmsg.png)
 
 3.3.2 视觉设计
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibsOicic0AfUIzib4flrEEG5E4cNVa737uHtiaiaVhPeWWVLR4NRNibFyeaWPnanPTKmvRvJYyWLV905xGZg/640?wx_fmt=png&from=appmsg)**3.4 设计输出**
+![](../images/KmvRvJYyWLV905xGZg640wx_fmtpngfromappmsg.png)**3.4 设计输出**
 
 绘制高保真原型，进行初包装。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibsOicic0AfUIzib4flrEEG5E4ctFo5OicSNDiaHNvYRG0jEib9vDmsmRtPgIYRCTjaLMajlVRZFRNh7jicXw/640?wx_fmt=png&from=appmsg)
+![](../images/LMajlVRZFRNh7jicXw640wx_fmtpngfromappmsg.png)
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibsOicic0AfUIzib4flrEEG5E4c7wu9XgHdYLCOSAO9GAMHwqAMNcrGK9UibHPBL84FbKicfEjTs6vN4lqA/640?wx_fmt=png&from=appmsg)
+![](../images/4FbKicfEjTs6vN4lqA640wx_fmtpngfromappmsg.png)
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibsOicic0AfUIzib4flrEEG5E4ciaXQEoibToficyRVWkPEv7SLh64SpOeNhtZQYmq9O0TPozxRPtOrT1RSw/640?wx_fmt=png&from=appmsg)
+![](../images/9O0TPozxRPtOrT1RSw640wx_fmtpngfromappmsg.png)
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibsOicic0AfUIzib4flrEEG5E4cteOn09IPOqpdzjgKjUcWEUBbUDQLgmdLUZofXcbYZgrWpFUsA0Uecw/640?wx_fmt=png&from=appmsg)
+![](../images/XcbYZgrWpFUsA0Uecw640wx_fmtpngfromappmsg.png)
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibsOicic0AfUIzib4flrEEG5E4cqryD49kRbHm8x5U8VjicPb96oiaEj0JEmDjC37IOJjdkzJlrSTDTjVmQ/640?wx_fmt=png&from=appmsg)
+![](../images/IOJjdkzJlrSTDTjVmQ640wx_fmtpngfromappmsg.png)
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibsOicic0AfUIzib4flrEEG5E4c2uRWoxeq31wb8pbMicEBqovZkdD4kjubLdVkxblzgth6v1UUk5Bp5lA/640?wx_fmt=png&from=appmsg)**4 讨论**
+![](../images/blzgth6v1UUk5Bp5lA640wx_fmtpngfromappmsg.png)**4 讨论**
 
 **4.1 用户体验地图是否需要如此完美？**
 
@@ -125,7 +125,7 @@ tags: []
 
 总结而言，我发现用户体验地图具有不完美性，来自时间不等分性、任务不连续性、任务频次差异以及角色的多样性，这是使得体验地图需要研究者更加深入地探索实际流程，而非根据已有理论模型推导。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibsOicic0AfUIzib4flrEEG5E4cjtX37cIX4ZeHs2rEdQEALBwvWz9SLtZibs3TdxqfgfhmicHP8DC7JHSw/640?wx_fmt=png&from=appmsg)
+![](../images/qfgfhmicHP8DC7JHSw640wx_fmtpngfromappmsg.png)
 
   
 
@@ -135,11 +135,11 @@ tags: []
 
 **① 填充文案的生成。**以往在 UX/UI 的原型中，需要设计师自己写填充的文案。文案信息的逼真程度可以体现设计的专业性，但这会占用一定的时间又没有其他价值，因此部分设计师可能会选择想一到两个例子，然后使用重复的文案。为了高效产出文案，便可以使用 AI 来生成。具体可以告诉 AI 项目背景，然后给他下达生成任务，并要求按照规范输出。然后进行一定的整理。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibsOicic0AfUIzib4flrEEG5E4cBcnUlAZuW1L2EhYqb3FHlHvUib0ibjfrXjMWjNfO4iavfTgyfz3P1rbwQ/640?wx_fmt=png&from=appmsg)
+![](../images/O4iavfTgyfz3P1rbwQ640wx_fmtpngfromappmsg.png)
 
 **② 封面/头像绘制。**现在 AI 可以根据需求创作图片，设计师可能可以更快的制作高保真原型，例如一些卡片的封面，虚拟人物头像都可以采用 AI 绘图，但实际上效果还是不如照片来得真实。如果要进一步提升效率，可以尝试形成专属的提示词库和图片素材库。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibsOicic0AfUIzib4flrEEG5E4cwpLmnzgJla48KPIh0YBicxt1gMaT5M6SHTflQJmXgGfcvoeFx8YzoJw/640?wx_fmt=png&from=appmsg)
+![](../images/JmXgGfcvoeFx8YzoJw640wx_fmtpngfromappmsg.png)
 
 5 结论  
 

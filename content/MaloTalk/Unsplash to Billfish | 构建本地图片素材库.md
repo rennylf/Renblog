@@ -41,7 +41,7 @@ tags: []
 
 ③ OneDrive：一个可以将数据备份到云端的工具，以防止数据丢失。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibtXNOmWfgx6ibchxUiajJjVfGBibEhdvaeFDficGbpgkeKbH7ibd2dwcibXOd8QGEqUFKcGYytN5sqdxCDQ/640?wx_fmt=png)
+![](../images/cibXOd8QGEqUFKcGYytN5sqdxCDQ640wx_fmtpng.png)
 
 ### 1、使用 Bulksplash 批量下载 Unsplash 图片  
 
@@ -61,21 +61,21 @@ Bulksplash 的使用‍‍
 
 ⑥ 输入完毕后，Bulksplash 将会开始下载图片。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibtXNOmWfgx6ibchxUiajJjVfGmZPtd3mV1yvCoCIeeZw3Hz4QibVp18oYNKFkCRo7D9KoaFyH9RKo3icA/640?wx_fmt=png)   
+![](../images/18oYNKFkCRo7D9KoaFyH9RKo3icA640wx_fmtpng.png)   
 
 一些参考的关键词（基于 ChatGPT3.5）
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibtXNOmWfgx6ibchxUiajJjVfG3Ew7y10JjJUxdw1a20picPWNUzb4os9BTL0foFcpxTq7RtiaAM13fOpQ/640?wx_fmt=png)2、使用 Billfish 对图片进行管理和浏览   
+![](../images/os9BTL0foFcpxTq7RtiaAM13fOpQ640wx_fmtpng.png)2、使用 Billfish 对图片进行管理和浏览   
 
 Billfish 是一个可以对图片进行管理和浏览的工具，收集完的图片可以统一放入 Billfish 中，然后使用 Billfish 对图片进行分类、搜索和浏览。它支持多种图片格式，包括 JPG、PNG、GIF 等。使用 Billfish 可以让我们更加方便地管理和使用图片。   
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibtXNOmWfgx6ibchxUiajJjVfGmmrRFrsL0Db1b5pUZ9gCeFZeZK7nzoCibKKPWCN2RmKd3gXUIZhPmibQ/640?wx_fmt=png)
+![](../images/zoCibKKPWCN2RmKd3gXUIZhPmibQ640wx_fmtpng.png)
 
 ### 3、使用 OneDrive 将数据备份到云端  
 
 为了防止数据丢失，我们可以使用 OneDrive 将数据备份到云端。这样即使本地数据丢失，我们也可以轻松地恢复数据。同时，OneDrive 还支持多设备同步，这意味着我们可以在任何设备上访问我们的数据。   
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibtXNOmWfgx6ibchxUiajJjVfGNm46yafxpZRvdwYxXXFu3yUwwJRLEGibvZeIMicUehZ9dJ16WPROD4Ow/640?wx_fmt=png)
+![](../images/EGibvZeIMicUehZ9dJ16WPROD4Ow640wx_fmtpng.png)
 
   
 

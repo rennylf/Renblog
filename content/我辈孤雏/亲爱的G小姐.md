@@ -5,7 +5,7 @@ category: 我辈孤雏
 tags: []
 ---
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/2V40UerANibslibGDGLNxu6uhoenfNvG1YNDEljBNfSoLIjBmEL1WpiclTxeI5jLdLSFiaTxjhX3QFfQibC9jVFYP6Q/640?wx_fmt=jpeg)
+![](../images/dLSFiaTxjhX3QFfQibC9jVFYP6Q640wx_fmtjpeg.jpeg)
 
 我永久地记得那晚，朋友跟我挤在一块。他拿着最新的智能手机，玩着炫酷的赛车游戏，我吃着垃圾食品，假装不在意，虽然心中无比羡慕。他好意给我玩，我却很窘迫，赛车游戏竟没有左右键，不知怎么玩，原来那手机有着功能机没有的陀螺仪。
 

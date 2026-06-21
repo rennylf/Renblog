@@ -25,7 +25,7 @@ tags: []
 2、讲述做MVP的分为五个步骤，并且重点讲解前期构建Demo和验证的步骤。  
 3、谈谈MVP的思想给我工作与生活带来的两点启发。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibu0FRUVFE29AK2CIgfw0J5oic0Jw33hj3D3NVJicTemd4iaHXWgXJ5v9kq6zyWCedxiaic5dt08tkW8ibXg/640?wx_fmt=png)
+![](../images/9kq6zyWCedxiaic5dt08tkW8ibXg640wx_fmtpng.png)
 
 （作者自绘）
 
@@ -74,7 +74,7 @@ MVP的本质是验证需求是否真实存在\[1\]，因此应该以最小可行
 
 常见的例子如图所示，分别测试车轮、底座、车架等，这样并不能测试出人们出行的需求；而我在测试培训机制的时候，本打算分解为四个阶段，分别测试“查找”、“学习”、“求助”、“反馈“，其实也无法测试出整体自助调研的需求。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibu0FRUVFE29AK2CIgfw0J5ouUqzsYvJULwTSgib271xo52zDTtFb5Le2FIwURWXuDdAolndzaKlaFA/640?wx_fmt=png)
+![](../images/Fb5Le2FIwURWXuDdAolndzaKlaFA640wx_fmtpng.png)
 
 （图片来源：网络）
 

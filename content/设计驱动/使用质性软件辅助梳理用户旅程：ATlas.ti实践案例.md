@@ -9,17 +9,17 @@ tags: []
 
 用户旅程是用户体验领域最常用的方法之一，它使用可视化的方式呈现用户为了完成某一个目标而经历的过程，包含了丰富的体验信息（如下图所示），能够帮助设计师、产品经理全面了解产品的用户体验，定位问题以及作出符合用户需求的优化。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibsS3cSYYuol0XWj8yXPHmY0GbWJqECNN2x4BnjZ9ib1074uIMtV0KXZhO81u1qTmXibQ4sV9KM74OFw/640?wx_fmt=png)
+![](../images/0KXZhO81u1qTmXibQ4sV9KM74OFw640wx_fmtpng.png)
 
 （注：图片来自网络，在绘制B端用户旅程时，想法和情绪曲线会省略）
 
 用户旅程的梳理通常基于定性资料，如用户访谈文本。然而定性资料庞大且缺乏结构，不利于总结和发现内部关联；尤其用户的回答可能在不同场景中来回跳跃，导致即便有假设的旅程逻辑顺序收集回来的文本通常也是杂乱无序的。因此，梳理用户旅程图通常非常耗时，且容易遗漏信息。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibsS3cSYYuol0XWj8yXPHmY0O4D43gDfRwWVQx30xAgVnKLic9jw3ficdr9aUROUCqbsxfaR3dRibI5GA/640?wx_fmt=png)
+![](../images/ficdr9aUROUCqbsxfaR3dRibI5GA640wx_fmtpng.png)
 
 定性分析工具是指一些辅助定性研究的软件，如Nvivo，MAXQDA，ATLas.ti，它们通常提供文本的编码、注释、内容分析、可视化建模能功能，基于这些功能，能够帮助研究人员更好的理解和分析定性研究数据，例如文本、图片、视频等。梳理用户旅程在用户体验研究中通常属于定性研究的范畴，文本旨在提供一个利用ATLas.ti进行用户旅程图梳理的案例，为运用QDA工具在梳理用户旅程中的应用提供参考。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibsS3cSYYuol0XWj8yXPHmY0PQOCuzFGLybCjfKwqBXuPUhicdrX5QqtpcVLv3ahDldEftpicuFUBxFQ/640?wx_fmt=png)
+![](../images/5QqtpcVLv3ahDldEftpicuFUBxFQ640wx_fmtpng.png)
 
 ATlas.ti在定性分析软件中，功能的全面性和易用性都不算太好，选用它仅仅是因为在Mac系统上比较容易「安装使用」；此外，ATlas.ti在宣传语中提到了用户体验行业，因此比较有好感。此外需要声明本文不提供软件的安装、基础使用教学，仅提供在梳理用户旅程图时的应用应用Demo。
 
@@ -39,7 +39,7 @@ ATlas.ti在定性分析软件中，功能的全面性和易用性都不算太好
 
 在软件中导入原文文档（见下图中②），快速浏览全文。将提供了关键信息的片段添加为引用，并且把引用拖动到对应的初始编码中，完成编码。如某段话提供在审批阶段的痛点，则可以划选该段话，右键添加引用，然后引用拖动到「审批」编码中。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibsS3cSYYuol0XWj8yXPHmY0HvysRIR6ytN3qjFebWfQvG0Y3wETYGXtfvOLsH0xESWic8QrnHShjIg/640?wx_fmt=png)
+![](../images/TYGXtfvOLsH0xESWic8QrnHShjIg640wx_fmtpng.png)
 
 \#### step03 汇总分析
 
@@ -51,13 +51,13 @@ ATlas.ti在定性分析软件中，功能的全面性和易用性都不算太好
 
 3\. 根据评论的内容，给引用添加其他编码。如：该片段提供了用户痛点的信息，并且在评论提炼痛点，则可以添加一个编码「用户痛点」
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibsS3cSYYuol0XWj8yXPHmY0sYbHxffr4T2UO7opwMAvyCbDeTBA0nWUzMKhnUBhpNAaKAacJL4lxw/640?wx_fmt=png)
+![](../images/BA0nWUzMKhnUBhpNAaKAacJL4lxw640wx_fmtpng.png)
 
 \#### step04 旅程图绘制
 
 在原文分析结束后，可以开始绘制旅程图绘制。使用「引用管理器」进行辅助，通过筛选功能，分别对内容进行筛选。例如在绘制用户痛点内容时，可以筛选出提供痛点信息的片段，根据阶段和行为编码，找到适合的地方安置文本。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibsS3cSYYuol0XWj8yXPHmY08DyfQ7YEBgzhn40kGyT1FbG6BLDMPOzpElictjCSggrhu4A4FhMfBqg/640?wx_fmt=png)
+![](../images/MPOzpElictjCSggrhu4A4FhMfBqg640wx_fmtpng.png)
 
 **\## 小结**
 

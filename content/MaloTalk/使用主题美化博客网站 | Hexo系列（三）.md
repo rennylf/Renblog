@@ -28,7 +28,7 @@ tags: []
 *   JavaScript：实现网站的额外的交互和功能（少见）。
     
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibuDyFmttdo00I6CTBpNF6b7s37y74IE4icYhHiaHQnuyXVnta7e9iaic3mPzz8GdOJNQqRQUmibEVxct5g/640?wx_fmt=png&from=appmsg)
+![](../images/OJNQqRQUmibEVxct5g640wx_fmtpngfromappmsg.png)
 
 Hexo主题配置流程
 ----------
@@ -37,7 +37,7 @@ Hexo主题配置流程
 
 Hexo 官网Themes | Hexo提供了众多的主题可以选择。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibuDyFmttdo00I6CTBpNF6b7h1l5HgCSmYSHewL0ic8ttoxnPgqcKibyLMvh4VAlkib2fqRCicZvyk35ug/640?wx_fmt=png&from=appmsg)
+![](../images/kib2fqRCicZvyk35ug640wx_fmtpngfromappmsg.png)
 
 这些主题的源文件大多放在 Github 上，有两种办法在本地安装这些主题。
 
@@ -48,25 +48,25 @@ Hexo 官网Themes | Hexo提供了众多的主题可以选择。
 
 **注意**阅读主题的说明，某些主题需要安装相关依赖（可以理解为插件），只有安装好才可以使用（一般会提供安装的自动安装代码）。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibuDyFmttdo00I6CTBpNF6b7B44KgZAayAD8R2iauz1lBJOg9571ibLzqrDKH1eERf74DqcI0dXqBPag/640?wx_fmt=png&from=appmsg)
+![](../images/eERf74DqcI0dXqBPag640wx_fmtpngfromappmsg.png)
 
 ### 02 切换主题
 
 在网站根目录的总配置文件中，修改 Theme 属性值为主题名称，就可以轻松完成主题的替换。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibuDyFmttdo00I6CTBpNF6b77nLM89uPTnWJax6urJyfNDetQgXuLN94YxDuOIIe1wsdUyCS5TbS4g/640?wx_fmt=png&from=appmsg)
+![](../images/OIIe1wsdUyCS5TbS4g640wx_fmtpngfromappmsg.png)
 
 ### 03 配置主题
 
 在主题文件夹中，同样存在 yaml配置文件，可以自定义相关的信息。你可以通过不断地调整属性和值，来测试对最终网页的影响。从而在原有主题的基础上，学会做一些小幅度的修改，使其更加符合需求。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibuDyFmttdo00I6CTBpNF6b7uAbwkGIZzlI5biaVCSBxqmERYCDUkvAyBmyjljkrfX71Z5xhoXZ9FzQ/640?wx_fmt=png&from=appmsg)
+![](../images/jkrfX71Z5xhoXZ9FzQ640wx_fmtpngfromappmsg.png)
 
 ### 04 生成新版本并发布
 
 完成以上步骤后，参考第一篇文章，使用命令`hexo g`来生成本地版本，并使用`hexo d`来部署到服务器，以上线替换主题后的博客网站。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibuDyFmttdo00I6CTBpNF6b7sfknqheMibuwYwThTMxiaEOFlj7OcuLF4kNbTbzyYAxTt1SUgdyhGKhQ/640?wx_fmt=png&from=appmsg)
+![](../images/zyYAxTt1SUgdyhGKhQ640wx_fmtpngfromappmsg.png)
 
 总结思考
 ----

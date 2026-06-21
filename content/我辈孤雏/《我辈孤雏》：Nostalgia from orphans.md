@@ -5,7 +5,7 @@ category: 我辈孤雏
 tags: []
 ---
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibuP8uvoaEx8oicqhhBddWfMIpZ2At2qE6aDtwmwhL7fREVRRBwyzYRz2g3Ju6trE6SOFK1AbBbsbhw/640?wx_fmt=png&from=appmsg)
+![](../images/6trE6SOFK1AbBbsbhw640wx_fmtpngfromappmsg.png)
 
 重温《昨日之海》关于石黑一雄的解读，让我决定跳过读一半的《无可慰藉 》，直接读了《我辈孤雏》，因为故事更加吸引人，而且比较易读。  
 

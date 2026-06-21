@@ -5,7 +5,7 @@ category: 设计驱动
 tags: []
 ---
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/2V40UerANibtjticIWLy9Bo41Map2VBAKja2feP1eh4fAsdicVNDb3YmYTgqfG5DaZ9qPBx7icqialMKncHls52aQ1A/640?wx_fmt=jpeg&from=appmsg)
+![](../images/qialMKncHls52aQ1A640wx_fmtjpegfromappmsg.jpeg)
 
 在“降本增效”成为汽车行业共识的今天，车型项目组对新技术的应用愈发谨慎。过去，创新往往源于自上而下的决策逻辑，由工程师不遗余力地落地；而现在，每一项配置都需经过反复论证。同行可能会发现，常提到的用户体验正在被更务实的用户价值替代。即便你罗列出详尽的性能参数，仍会被追问：这是否具备真正的用户价值？到底值不值得做？
 
@@ -17,11 +17,11 @@ tags: []
 
 本案例以电子液压助力刹车系统（EHB）为基准参照（即“旧体验”），将刹车旅程划分为前、中、后三个阶段。通过对比两种技术的工作机制，全面梳理 10 项技术差异，并将其转化为 6 项潜在的用户价值假设。
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/2nmqEIXKCRJz1PzqDDAVPMYibzIscLdZS924cIRvbDP8sWMXTYIicJFl5bnfNSIyLpnMyn3p6Clps9s0MuTGFNgCy0L8Dzfzunqd0A37picsPU/640?wx_fmt=png&from=appmsg)
+![](../images/Dzfzunqd0A37picsPU640wx_fmtpngfromappmsg.png)
 
 以上分析为假设阶段，必须经过实证，才判断真伪和量化。工程师容易想到使用问卷工具来做实证，但可能落入以评分作为指标的陷阱中，回到用户体验那套，缺少对成本的考虑。在本案例中，笔者借鉴付费意愿问卷（Willingness to Pay， WTP），试图弥补这一缺陷，总体而言，包含整体价值分析、价值排序分析和用户画像分析。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2nmqEIXKCRJP1xI4CNDdkrSCtutybwHhOpQ9gBggeLTx2mASpib4e2DVKLtwwLx5zGwUT6gwG1vY97706QTlqY24BTX2j3P386fOkxqN82aE/640?wx_fmt=png&from=appmsg)
+![](../images/X2j3P386fOkxqN82aE640wx_fmtpngfromappmsg.png)
 
 整体价值分析旨在量化用户价值，辅助配置决策。案例采用五点量表，在问卷中向被试阐明 6 项潜在价值以及需要额外支付金额，询问付费意愿，数据显示，该只有53%的用户考虑付（含肯定会买和可能会买）。随后，案例采用单选题，测量了用户愿意为刹车系统优化支出的金额区间，发现 60% 不接受超过千元的成本。结论显而易见：该技术的用户价值并不高（实际付费行为比例可能更低于声称的付费意愿）。
 

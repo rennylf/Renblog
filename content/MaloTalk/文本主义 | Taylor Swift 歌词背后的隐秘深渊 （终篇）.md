@@ -8,7 +8,7 @@ tags: []
 Bigger than the whole sky 悲伤迷雾
 ------------------------------
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/2V40UerANibvXXtf38wbSweEsyJKA4WlG6ROdYE7kZSuzNAGjCMITOvn5afNhrGjfQw2ub1s9e2iaGns6Z85Kmqw/640?wx_fmt=jpeg&from=appmsg)
+![](../images/s9e2iaGns6Z85Kmqw640wx_fmtjpegfromappmsg.jpeg)
 
 多年前，我学过“ a fog of ”这个词组，至今很喜欢。因为我被情绪包裹之事常有，再也找不出别的词汇好描述那种感受。Taylor的《Bigger than the whole sky》给的印象便是 a fog of sadness。这首歌收录在专辑《Midnights》中，是凌晨三点版本的的奖励曲目，属于乡村民谣。为什么我会感到迷雾一样的悲伤？这个疑问让我不禁想起‘悲伤五阶段’理论。
 

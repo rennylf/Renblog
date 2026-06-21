@@ -40,7 +40,7 @@ tags: []
 *   空间需要创造人与人的关系：存在感；美好回忆；认同感
     
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibsnNOnVESYEJcFkeYEBKGt3hZ8iap9AgKyIfp6t2Pyh9bCQFNiaVdqpDocusAuoUZJic5guiagVMG7BgA/640?wx_fmt=png)
+![](../images/qpDocusAuoUZJic5guiagVMG7BgA640wx_fmtpng.png)
 
   
 
@@ -49,12 +49,12 @@ tags: []
 *   空间概念置换（藏书阁）
     
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibsnNOnVESYEJcFkeYEBKGt3PRoEmYZcvOsNr54uic5yBEtbDpXfqxAbDJEyT5cuoUg3iacHGjXZuo9Q/640?wx_fmt=png)
+![](../images/qxAbDJEyT5cuoUg3iacHGjXZuo9Q640wx_fmtpng.png)
 
 *   将空间压缩在放大（营造别有洞天的感觉）：快速的使人切换空间，聚焦沉浸
     
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibsnNOnVESYEJcFkeYEBKGt3w1ldib4ibicExzHTp19snBMF3DJAB3DrDxich9ibZE00NpJKlZGEqFohbZA/640?wx_fmt=png)
+![](../images/rDxich9ibZE00NpJKlZGEqFohbZA640wx_fmtpng.png)
 
 *   利用偷窥与被偷窥的关系，利用人类的基本欲望，相互暧昧
     
@@ -91,9 +91,9 @@ tags: []
 
 洞见
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibsnNOnVESYEJcFkeYEBKGt39Wug52K3XHm75se1Zl8KZCYcqERFYUCqzicJfRATycALpuXePbjpsHw/640?wx_fmt=png)
+![](../images/FYUCqzicJfRATycALpuXePbjpsHw640wx_fmtpng.png)
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibsnNOnVESYEJcFkeYEBKGt3mUjy1BPPNPCW6pAPPoiaLZ76mVmtiaX3EJJ3HVXWOJjDK13CJxQ7BCNg/640?wx_fmt=png)
+![](../images/iaX3EJJ3HVXWOJjDK13CJxQ7BCNg640wx_fmtpng.png)
 
   
 
@@ -112,15 +112,15 @@ tags: []
 
 产品是特定空间的解决方案（追逐生活的本质）
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibsnNOnVESYEJcFkeYEBKGt3ePPw48WvzSoialrN86IJr78gABWgattTeNjHkPca3ib1xGCp8WqE4icog/640?wx_fmt=png)
+![](../images/ttTeNjHkPca3ib1xGCp8WqE4icog640wx_fmtpng.png)
 
   
 
 打造愉悦体验以触达用户情感
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibsnNOnVESYEJcFkeYEBKGt3EBzRLjgic2OEnfKpuxqQDic9veKArGhicwcCrTwrOKIbWHDpQCZStEQ2A/640?wx_fmt=png)
+![](../images/GhicwcCrTwrOKIbWHDpQCZStEQ2A640wx_fmtpng.png)
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibsnNOnVESYEJcFkeYEBKGt3zl80EDU8uJbiabcd0M6zn8mLtvVV2gFasCypeo5aVdtt54rK96IukUw/640?wx_fmt=png)
+![](../images/V2gFasCypeo5aVdtt54rK96IukUw640wx_fmtpng.png)
 
-![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibsnNOnVESYEJcFkeYEBKGt3jAziaut71MhjEPBqvkkhAn2xVDUVaXQOaJXGWEVhkYN6Fcicx4t71uibQ/640?wx_fmt=png)
+![](../images/XQOaJXGWEVhkYN6Fcicx4t71uibQ640wx_fmtpng.png)
  

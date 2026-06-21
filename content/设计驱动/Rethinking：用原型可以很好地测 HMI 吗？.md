@@ -5,7 +5,7 @@ category: 设计驱动
 tags: []
 ---
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/2V40UerANibvUA5X2BamMVtvj3INKt38LXdJABTNqjj5ucxI3vVebe5GG8YXdHBJy6eGiadgJCqOQ7n6sdCdicsuQ/640?wx_fmt=jpeg)
+![](../images/BJy6eGiadgJCqOQ7n6sdCdicsuQ640wx_fmtjpeg.jpeg)
 
 本周笔者都在紧急排查某功能的体验问题，该功能是座椅控制相关的 HMI 功能，被高层领导点评批评体验差，功能管控部门首先受到波及。暂且抛开职责边界不谈，直接原因是在功能验收时，功能管控工程师只考虑了功能实现状态，未进行体验评估。
 
