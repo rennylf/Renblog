@@ -48,6 +48,7 @@ const homeTpl = read("home.html");
 const postTpl = read("post.html");
 const categoryTpl = read("category.html");
 const aboutTpl = read("about.html");
+const articlesTpl = read("articles.html");
 
 // Recursively collect markdown files from content/ and subdirectories
 function collectFiles(dir, base = "") {
@@ -90,15 +91,14 @@ fs.rmSync(OUTPUT, { recursive: true, force: true });
 fs.mkdirSync(path.join(OUTPUT, "posts"), { recursive: true });
 fs.mkdirSync(path.join(OUTPUT, "category"), { recursive: true });
 fs.mkdirSync(path.join(OUTPUT, "about"), { recursive: true });
+fs.mkdirSync(path.join(OUTPUT, "articles"), { recursive: true });
 
 const year = new Date().getFullYear();
 
 function navHtml(base) {
-  const items = CATEGORIES.map(
-    (c) =>
-      `<a href="${base}category/${c.slug}.html">${c.name}</a>`
-  ).join("\n      ");
-  return `<a href="${base}index.html">首页</a>\n      ${items}\n      <a href="${base}about/index.html">关于我</a>`;
+  return `<a href="${base}index.html"><span class="zh">首页</span><span class="en">Home</span></a>
+  <a href="${base}articles/index.html"><span class="zh">文章索引</span><span class="en">Index</span></a>
+  <a href="${base}about/index.html"><span class="zh">关于我</span><span class="en">About</span></a>`;
 }
 
 function layoutVars(base, title, body) {
@@ -114,20 +114,32 @@ function layoutVars(base, title, body) {
 }
 
 // Home page
-const listItems = posts
+// Category cards
+const categoryCards = CATEGORIES.map((cat) => {
+  const count = posts.filter((p) => p.categorySlug === cat.slug).length;
+  return `<a href="category/${cat.slug}.html" class="cat-card">
+    <span class="cat-card-name">${cat.name}</span>
+    <span class="cat-card-count">${count} 篇</span>
+  </a>`;
+}).join("\n");
+
+// Recent 6 posts
+const recentPosts = posts
+  .slice(0, 6)
   .map((p) => {
-    const dateHtml = p.date
-      ? `<time datetime="${p.date}">${p.date}</time>`
-      : "";
-    const catHtml = p.category
-      ? `<a href="category/${p.categorySlug}.html" class="post-cat">${p.category}</a>`
-      : "";
-    return `<div class="post-item">${dateHtml}${catHtml}<a href="posts/${p.slug}.html">${p.title}</a></div>`;
+    const dateHtml = p.date ? `<time datetime="${p.date}">${p.date}</time>` : "";
+    const catHtml = p.category ? `<span class="recent-cat">${p.category}</span>` : "";
+    return `<a href="posts/${p.slug}.html" class="recent-item">
+      ${dateHtml}
+      <span class="recent-title">${p.title}</span>
+      ${catHtml}
+    </a>`;
   })
   .join("\n");
 
 const homeBody = render(homeTpl, {
-  posts: listItems || "<p>暂无文章</p>",
+  categoryCards,
+  recentPosts: recentPosts || '<p class="recent-empty"><span class="zh">暂无文章</span><span class="en">No articles yet</span></p>',
 });
 fs.writeFileSync(
   path.join(OUTPUT, "index.html"),
@@ -142,7 +154,7 @@ for (const post of posts) {
   // Estimate reading time: ~400 chars/min for Chinese
   const charCount = post.content.replace(/<[^>]+>/g, "").length;
   const mins = Math.max(1, Math.round(charCount / 400));
-  const readTime = `阅读约 ${mins} 分钟`;
+  const readTime = `<span class="zh">阅读约 ${mins} 分钟</span><span class="en">${mins} min read</span>`;
   const body = render(postTpl, {
     title: post.title,
     date: post.date,
@@ -171,7 +183,7 @@ for (const cat of CATEGORIES) {
     .join("\n");
   const body = render(categoryTpl, {
     category: cat.name,
-    posts: catList || "<p>该分类暂无文章</p>",
+    posts: catList || '<p><span class="zh">该分类暂无文章</span><span class="en">No articles yet</span></p>',
   });
   fs.writeFileSync(
     path.join(OUTPUT, "category", `${cat.slug}.html`),
@@ -191,6 +203,27 @@ const aboutBody = render(aboutTpl, { content: aboutHtml });
 fs.writeFileSync(
   path.join(OUTPUT, "about", "index.html"),
   render(layout, layoutVars("../", "关于我", aboutBody))
+);
+
+// Article index page
+const indexSections = CATEGORIES.map((cat) => {
+  const catPosts = posts.filter((p) => p.categorySlug === cat.slug);
+  const catItems = catPosts
+    .map((p) => {
+      const dateHtml = p.date ? `<time datetime="${p.date}">${p.date}</time>` : "";
+      return `<li><a href="posts/${p.slug}.html">${p.title}</a>${dateHtml}</li>`;
+    })
+    .join("\n");
+  return `<section class="index-section">
+    <h2 class="index-cat-title">${cat.name} <span class="index-cat-count">${catPosts.length} 篇</span></h2>
+    <ul class="index-post-list">${catItems}</ul>
+  </section>`;
+}).join("\n");
+
+const articlesBody = render(articlesTpl, { sections: indexSections });
+fs.writeFileSync(
+  path.join(OUTPUT, "articles", "index.html"),
+  render(layout, layoutVars("../", "文章索引", articlesBody))
 );
 
 // Copy static

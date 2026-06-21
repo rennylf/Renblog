@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="zh-CN" data-theme="light" data-lang="zh">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -8,7 +8,17 @@
 </head>
 <body>
   <header>
-    <a href="{{base}}index.html" class="site-title">{{siteTitle}}</a>
+    <div class="header-top">
+      <a href="{{base}}index.html" class="site-title">{{siteTitle}}</a>
+      <div class="header-tools">
+        <button class="tool-btn" id="theme-toggle" aria-label="切换暗黑模式" title="暗黑模式">
+          <span class="icon-light">☀</span><span class="icon-dark">☾</span>
+        </button>
+        <button class="tool-btn" id="lang-toggle" aria-label="Switch language" title="Switch language">
+          <span class="lang-label">中</span><span class="lang-label-en">EN</span>
+        </button>
+      </div>
+    </div>
     <p class="tagline">{{tagline}}</p>
     <nav>
       {{nav}}
@@ -18,8 +28,26 @@
     {{body}}
   </main>
   <footer>
-    <p>👋 顾远｜智能汽车与用户体验<br>记录真实的产品思考。</p>
-    <p>💬 如果你对文章有想法，欢迎交流。<br>🤝 与我联系：rennylf@outlook.com</p>
+    <p>👋 顾远｜智能汽车与用户体验<br><span class="zh">记录真实的产品思考。</span><span class="en">Documenting authentic product thoughts.</span></p>
+    <p>💬 <span class="zh">如果你对文章有想法，欢迎交流。</span><span class="en">Thoughts? I'd love to hear from you.</span><br>🤝 <span class="zh">与我联系：rennylf@outlook.com</span><span class="en">Contact: rennylf@outlook.com</span></p>
+    <p>📱 <span class="zh">微信：任顾远</span><span class="en">WeChat: 任顾远</span></p>
   </footer>
+  <script>
+(function(){
+var h=document.documentElement;
+var t=localStorage.getItem('theme')||'light';
+var l=localStorage.getItem('lang')||'zh';
+h.setAttribute('data-theme',t);
+h.setAttribute('data-lang',l);
+document.getElementById('theme-toggle').addEventListener('click',function(){
+var n=h.getAttribute('data-theme')==='dark'?'light':'dark';
+h.setAttribute('data-theme',n);localStorage.setItem('theme',n);
+});
+document.getElementById('lang-toggle').addEventListener('click',function(){
+var n=h.getAttribute('data-lang')==='zh'?'en':'zh';
+h.setAttribute('data-lang',n);localStorage.setItem('lang',n);
+});
+})();
+</script>
 </body>
 </html>

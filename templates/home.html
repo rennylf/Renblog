@@ -1,11 +1,10 @@
-<div class="page-header">
-  <h1>文章列表</h1>
-  <input type="checkbox" id="layout-toggle" class="layout-toggle-input" checked>
-  <label for="layout-toggle" class="layout-toggle-label" title="切换布局">
-    <span class="toggle-icon toggle-list">☰</span>
-    <span class="toggle-icon toggle-grid">▦</span>
-  </label>
-</div>
-<div class="post-list">
-  {{posts}}
-</div>
+<section class="categories-grid">
+  {{categoryCards}}
+</section>
+
+<section class="recent-section">
+  <h2 class="section-label"><span class="zh">最近更新</span><span class="en">Recent</span></h2>
+  <div class="recent-grid">
+    {{recentPosts}}
+  </div>
+</section>

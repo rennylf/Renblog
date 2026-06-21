@@ -1,21 +1,15 @@
-<nav class="article-nav">
-  <a href="{{base}}index.html" class="article-nav-back">← 首页</a>
-  <a href="{{base}}category/{{categorySlug}}.html" class="article-nav-cat">{{categoryName}}</a>
-</nav>
 <article>
-  <header class="article-header">
-    <a href="{{base}}category/{{categorySlug}}.html" class="article-category">{{categoryName}}</a>
-    <h1>{{title}}</h1>
-    <div class="article-meta">
-      <time datetime="{{date}}">{{date}}</time>
-      <span class="meta-dot">&middot;</span>
-      <span class="meta-readtime">{{readTime}}</span>
-    </div>
-  </header>
-  <div class="article-body">
+  <p class="post-category"><a href="{{base}}category/{{categorySlug}}.html">{{categoryName}}</a></p>
+  <h1 class="post-title">{{title}}</h1>
+  <div class="post-meta">
+    <time datetime="{{date}}">{{date}}</time>
+    <span>&middot;</span>
+    <span>{{readTime}}</span>
+  </div>
+  <div class="post-body">
     {{content}}
   </div>
-  <footer class="article-footer">
-    <a href="{{base}}index.html" class="back-link">← 返回首页</a>
-  </footer>
 </article>
+<nav class="post-back">
+  <a href="{{base}}index.html">← <span class="zh">返回首页</span><span class="en">Back to Home</span></a>
+</nav>
