@@ -1,6 +1,7 @@
 ---
 title: 你好，世界
 date: 2026-06-21
+category: 设计驱动
 ---
 
 这是 Renblog 的第一篇文章。

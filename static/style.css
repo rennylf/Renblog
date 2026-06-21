@@ -15,17 +15,48 @@ body {
   background: #fff;
 }
 
+/* Header */
 header {
   margin-bottom: 60px;
 }
 
 .site-title {
-  font-size: 20px;
-  font-weight: 600;
+  font-size: 24px;
+  font-weight: 700;
   color: #222;
   text-decoration: none;
 }
 
+.tagline {
+  font-size: 14px;
+  color: #999;
+  margin-top: 6px;
+  margin-bottom: 20px;
+}
+
+/* Nav */
+nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+
+nav a {
+  display: inline-block;
+  padding: 4px 14px;
+  font-size: 15px;
+  color: #666;
+  text-decoration: none;
+  border-radius: 20px;
+  transition: background 0.15s, color 0.15s;
+}
+
+nav a:hover {
+  background: #f2f2f2;
+  color: #222;
+}
+
+/* Main */
 main {
   min-height: 60vh;
 }
@@ -59,15 +90,30 @@ a {
   color: #0366d6;
 }
 
+/* Article */
 article {
   margin-bottom: 60px;
 }
 
 time {
-  display: block;
+  display: inline-block;
   color: #888;
   font-size: 15px;
-  margin-bottom: 32px;
+  margin-bottom: 8px;
+}
+
+.post-category {
+  margin-bottom: 16px;
+  font-size: 15px;
+}
+
+.post-category a {
+  color: #888;
+  text-decoration: none;
+}
+
+.post-category a:hover {
+  color: #222;
 }
 
 .post-body {
@@ -133,8 +179,9 @@ time {
   color: #222;
 }
 
+/* Post list */
 .post-item {
-  margin-bottom: 32px;
+  margin-bottom: 28px;
 }
 
 .post-item a {
@@ -149,13 +196,33 @@ time {
 }
 
 .post-item time {
-  margin-bottom: 4px;
+  display: block;
+  margin-bottom: 2px;
 }
 
+.post-cat {
+  display: inline-block;
+  font-size: 12px !important;
+  font-weight: 400 !important;
+  color: #999 !important;
+  background: #f7f7f7;
+  padding: 0 8px;
+  border-radius: 10px;
+  margin-left: 8px;
+  vertical-align: middle;
+}
+
+.post-cat:hover {
+  color: #222 !important;
+  background: #eee;
+}
+
+/* Footer */
 footer {
   margin-top: 80px;
   padding-top: 20px;
   border-top: 1px solid #eee;
   color: #aaa;
   font-size: 14px;
+  line-height: 1.9;
 }

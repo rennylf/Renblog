@@ -3,18 +3,23 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{title}} — Renblog</title>
+  <title>{{title}} — {{siteTitle}}</title>
   <link rel="stylesheet" href="{{base}}style.css">
 </head>
 <body>
   <header>
-    <a href="{{base}}index.html" class="site-title">Renblog</a>
+    <a href="{{base}}index.html" class="site-title">{{siteTitle}}</a>
+    <p class="tagline">{{tagline}}</p>
+    <nav>
+      {{nav}}
+    </nav>
   </header>
   <main>
     {{body}}
   </main>
   <footer>
-    <p>© {{year}} Renblog</p>
+    <p>👋 顾远｜智能汽车与用户体验<br>记录真实的产品思考。</p>
+    <p>💬 如果你对文章有想法，欢迎交流。<br>🤝 与我联系：rennylf@outlook.com</p>
   </footer>
 </body>
 </html>
