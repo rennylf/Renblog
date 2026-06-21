@@ -1,0 +1,57 @@
+---
+title: 个性化配置博客网站 | Hexo系列（二）
+date: 2023-12-29
+category: MaloTalk
+tags: []
+---
+
+**一、博客网站信息架构**
+
+本系列的第一篇文章梳理了Hexo 博客最简的配置环境和博文发布流程，本文将聚焦在网站建设上，梳理基于 Hexo 的博客网站的信息架构以及配置流程。
+
+博客网站的主要目标是展示博文，整个的信息架构比较简单，可以分为主页，内容页和列表页。
+
+•主页：用于呈现网站信息（如名称、Slogan 等）、菜单、搜索、博文列表、以及其他信息模块（例如最新博文、历史文章、筛选等）；
+
+•内容页：用于展示博文内容，包括标题、正文、目录、作者、评论模块以及描述信息（例如发表日期）。
+
+•列表页：基于博文的分类和标签，用于展示某个分类/标签下的文章。
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibusgZ6abTuDI8LPedJq85mdiczz1YfLvTUvMRfFOS1nU5dyvglZAaeN1Reicwgu2aXgfLOKwq9yQT1Q/640?wx_fmt=png)
+
+**二、信息配置流程**
+
+Hexo 采用 yaml 语言来配置信息以形成整个信息架构，yaml 语言的信息的格式为 \[属性：值\] ，例如\[title：任顾远\]，即网站主页的标题是“任顾远”，当有多个值时，需要采用短横列表来表示，如下图的“keywords”。    
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibusgZ6abTuDI8LPedJq85md0V6zMUBY1zrntuG3QdjZAVsloz5ZoZwbhgYGtQ6ClVkaAt0pP4FbMA/640?wx_fmt=png)
+
+修改配置文件并保存后，可在终端使用命令重新生成网站版本（hexo d）以及部署（hexo d）。即可完成所有修改并上线。
+
+**三、具体配置场景**
+
+在 Hexo 框架中，主页是自动生成的，只需要修改配置信息，自定义页面呈现的信息即可；内容页（即博文）可以通过 Markdown 语法来写作，然后由 Hexo 来转换；而列表页需要借助一些插件和主题，就可以实现自动生成。
+
+**01 自定义网站主页**
+
+Hexo 生成的网站主页配置文件是根目录下的“\_config.yml”文件，它用 yaml 语言存储了主页的各类信息，例如title, subtitle等，可根据自己的需要修改。    
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibusgZ6abTuDI8LPedJq85mdthFiaLSA4sZOJtSex7pJxes7LvkJHbj8uIk0sky3yXD6pe9ubxN2HGw/640?wx_fmt=png)
+
+**02 自定义内容页**
+
+第一篇文章中提到，在文件内打开终端，输入命令（hexo n “文件名”）即可在 Source 子文件夹中生成 Markdown 文件，然后通过 VS code 进行编辑。而配置博文信息的部分在最开头的Front matter部分，Hexo 默认提供了一些属性，用户也可自行添加。    
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibusgZ6abTuDI8LPedJq85md0mj5WCEsJG17icibuuAeIWCtc3goJTut0rdMN6o4ibCXvkrEmw0ecrNmg/640?wx_fmt=png)
+
+**03 生成内容列表页**
+
+在博文的front matter中，可以配置博文的分类和标签，语法名词分别是 categories 和 tags 。在安装和配置某些主题后，相关的内容列表页可以根据已有的分类和标签自动生成（需要使用命令重新生成网站版本）。    
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibusgZ6abTuDI8LPedJq85mdic01hMf2j085iccibzckV7qLVFetcPTfiaM2l2Pl2hvfTXPNHuMLibhTTNg/640?wx_fmt=png)
+
+这些页面存在于 public 子文件夹中。当修改一些主题的配置文件时，可能想要用这些页面作为某个菜单的超链接，链接地址可以使用“/+public 文件中某个列表子文件夹名”，如“ /tags/文学”。更多内容将在下一篇文章中介绍。
+
+**四、总结**
+
+本文是 Hexo 系列文章的第二篇，梳理了博客网站的信息架构，并简要说明的配置流程，更多配置项可自行研究。
+ 

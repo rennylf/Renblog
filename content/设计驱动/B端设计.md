@@ -1,0 +1,131 @@
+---
+title: B端设计
+date: 2021-11-20
+category: 设计驱动
+tags: []
+---
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/2V40UerANibshvNYr5zXJ4YkUhFHpicAcctK3W2whpn9z22ojf6azpAqZbMbBcSbS9NXgMB3LK4TkSW9l5lLEvdg/640?wx_fmt=jpeg)  
+
+  
+
+01 背景
+
+B端指设计企业用户和商家，即英文中的Business\[1\]。To B（面向B端）即为企业提供服务。B端市场从2014年起开始受到资本关注，在当下C端市场趋向于饱和的背景下，越来越多的公司将视线转向B端市场\[2\]。形成了一股企业数字化，互联网化的新浪潮。
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibshvNYr5zXJ4YkUhFHpicAccUybgWsz0ibE3coQUuvpC5BACpDwzgbZWIjJ9ibMZ3OFOPAdIsoMrTnEA/640?wx_fmt=png)
+
+企业数字化可以分为三个阶段，第一阶段是Digitation，指将数据和信息转换为数字格式，例如数字合同等。第二阶段是Digitalization，指利用数字技术和数据来改进流程，商业模式，为企业创新收入和创造价值。而最终阶段是Digital Transformation，是指利用数字技术用于改善社会各方面的产品和服务，驱动业务转型，最终推动产业数字化。
+
+数字化需求是从微观走向宏观，并且数字化的链条是愈来愈长的，不仅涉足企业内部的互联网化，而是包括研发，生产，交易，流通和融资等各个环节。通过数字化打通上下游，能够提升效率，优化资源配置，但存在着信息流通的难题。在数字化转型的背景下，设计师也面临着从C端向B端的变革。
+
+02 B端设计
+
+B端设计是未来的方向，这一点得到越来越多的认可。设计作为将策略性解决问题的过程应用于产品、系统、服务及体验的活动，能够对不同时代的问题进行回应\[3\]。那么什么是B端设计，B端设计有什么用，B端设计怎么进行，做哪些工作？
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibshvNYr5zXJ4YkUhFHpicAccMEZTqSfITnnTGn3akRLBWa3gXBVKNrTEGIC2ScC4KOPkE4cqGZRknw/640?wx_fmt=png)
+
+B端设计是面向企业的设计，面向企业这一点带来了丰富的内涵。B端设计的产品最终用户是属于组织中的个体，其作为使用者的主要原因是其在组织中担任的特定角色，因而在决定设计的Final Goals（终极目标）往往是达到企业的利益最大化，包括经济价值以及正面的普适价值（高效率，低成本，易管理等）两个方面，重点在于解决产品运营的问题，并不是C端产品关注的人性问题。
+
+B端设计立足不同的出发点，从一开始就注定会与C端设计产生较大的区别。从价值上来说，C端提供定性价值，它在不同人的群众找到人性的共性，提供标准化价值，走的是规模化，标准化路线。B端则提供定量价值，由于每个企业业务模式的差别，B端往往只能走差异化路线。从市场看，面向C端容易出现生态巨头，重视用户数量，增量，以及快速迭代。B端则是难以形成寡头，更重视客户质量，增速较慢，决策周期较长。反映在设计上，很容易发现C端产品设计的重视用户体验，个性。B端的产品重视效率，实现目标\[4\]。
+
+03 B端产品
+
+常见的B端产品类型包括 Enterprise Resource Planning(ERP), Office Automation(OA), Customer Relationship Management(CRM), Software as a Service(SAAS)以及 Content Manage System(CMS)\[5\]。
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibshvNYr5zXJ4YkUhFHpicAccp5dvJqTiaV2icia87uCjqAQsWbSTL4zsDfddsOt6v0icmFTlxzhu1Mmtmw/640?wx_fmt=png)
+
+1\. ERP 是对企业所拥有、调动的资源进行统一管理的平台，包括商品的供应链，销售审计，库存管理，成本核算等等，是今天实业领域必备的系统
+
+2\. OA 系统是通过程序的形式使办公流程自动化的解决方案，是一个企业除了生产控制之外的一切信息处理与管理的集合
+
+3\. CRM 是企业专门用来管理客户的工具，尤其对于零售服务行业来说，能更好的维系和客户之间的关系是提升销售额和复购率的重中之重
+
+4\. SAAS 是一个比较宽泛的概念，通常它指第三方提供给企业的线上软件服务，它既可以包含前面几种服务类型，也可以是一些更细化的需求。
+
+5\. CMS是这几年发展最迅猛的 B 端服务类型。例如语雀；产品后台是每一个互联网产品都必备的系统，也是 B 端产品中最常见，数量最多的管理平台。我们通过这个后台系统对前端的产品进行管理，包括发编辑内容，处理用户，统计数据等。
+
+04 B端设计流程
+
+美玉姐姐\[6\]将B端设计工作流程分为四个可视化步骤：1. 利用业务流程图分析业务。2. 利用树状思维导图转化功能。3. 利用页面流程图打造逻辑闭环。4. 用产生原型图设计功能交互。沈一\[7\]提出精简的B端设计流程，其中最突出的阶段来在于业务调研，因为B端产品解决客户业务问题，因而前期工作的主要目的是理解业务，挖掘客户的痛点，理解客户业务组织结构，岗位工作流程与业务模式等。然而这些流程更多面向产品经理，停止于交互设计阶段。
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibshvNYr5zXJ4YkUhFHpicAcczyj49XZpPagiaJLibibUj8WicxiabsuHrHNmC6rALQ8crLJ2vibstN8jIicpA/640?wx_fmt=png)
+
+杨小芳的文章展示了B端整体设计流程，它与传统设计流程相似，最大的区别在于项目启动后的分析中，需要转变思维，对企业业务进行需求分析以及用户/竞品调研。同时，在进行设计实践阶段会，B端会更显凸显组件，规范，可行性的落实。在进行设计评审阶段，产品，设计，技术多利益相关者的参与相比C端更加重要\[8\]。
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibshvNYr5zXJ4YkUhFHpicAccuTicsYyKcbH6ydzvyrsou5OCVy9sI9uO4w4zk6AsCbGknOPDQ3gtFNQ/640?wx_fmt=png)
+
+  
+
+05 设计方法
+
+好的设计方法能够帮助设计们解决设计流程中遇到的问题。在以往众多设计的不断努力和实践中，沉淀下来了很多简单有效的方法，例如，用户画像，用户旅程图，同理心地图，信息结构图，任务流程图，页面原型等。B端设计从面向个人转向面向组织，不但沿袭了C端方面的设计方法，更需要引入解决宏观问题的方法。
+
+5.1 商业画布
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibshvNYr5zXJ4YkUhFHpicAccpWcaFiakQu732M4Ym9ptVzWsAEBew8fZDLZSic2HibhfUvpc73OKfK6Pw/640?wx_fmt=png)
+
+商业模式画布图是指一种能够帮助创业者催生创意、降低猜测、确保他们找对了目标用户、合理解决问题的工具\[9\]。商业画布主要由重要伙伴、关键活动、价值主张、客户关系、客户细分、核心资源、渠道通路、成本结构、收入来源9个部分内容组成。它能够帮助设计小组清晰的了解客户公司业务，有助于达成设计共识。
+
+5.2 服务蓝图
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibshvNYr5zXJ4YkUhFHpicAccoBLlEjGXgRyFuIBkboSRPa1mLxlsicn05cVWEuWibdl9xCiboEIXfHKGA/640?wx_fmt=png)
+
+服务蓝图是一个图表，它可视化了不同服务组件（人员、道具（物理或数字证据）和流程）之间的关系，这些组件与特定客户旅程中的接触点直接相关\[10\]。蓝图可以1. 揭示企业全局的依赖关系，从根本上发现薄弱漏洞。2. 协调复杂服务，因为它架起了跨部门工作的桥梁。
+
+5.3 业务流程图
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibshvNYr5zXJ4YkUhFHpicAccWLibFe2sakCAWzqbj9qq9qjElQdBjj9KoTj2lAia9dInsLeJeOjDwFeQ/640?wx_fmt=png)
+
+业务流程图是一种描述管理系统内各单位、人员之间的业务关系，作业顺序和管理信息流向的图表。它用一些规定的符号及连线表示某个具体业务的处理过程,帮助分析人员找出业务流程中的不合理流向\[11\]。将企业业务进行可视化（如泳道图）以寻求优化是有效方式。
+
+5.4 原子设计
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibshvNYr5zXJ4YkUhFHpicAccmUUITal3tuU6DictUXYWiagYMmXFdxbEYI8CSH5eia6QXv3jeESIrDO3g/640?wx_fmt=png)
+
+原子设计\[12\]是一种基于网络设计系统思维方式的规范性原则。原子设计将页面分为原子、分子、生物、模块和页面，通过五个层次的共同协作，以更慎重和更具层次的方式创造出更有效的用户界面系统。原子设计可以保证界面的一致性，提升设计效率。  
+
+06 关于设计师
+
+B端设计仍旧存在起始阶段，设计师工作的内容目前主要包括：1. 布局设计。2. 控件设计。3. 表单设计。4.表格设计。5. 图表设计\[5\]。
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibshvNYr5zXJ4YkUhFHpicAccQB3gREBCvHeYCxj1ia8NCPA5se5R1ym5rEjqnl3fva7BpCLL9hU7KQQ/640?wx_fmt=png)
+
+Anne整理B端设计13的突出挑战：1. 功能的复杂性。2. 员工心理。3. 产品切换成本高。4. 功能新增频率高。5. 体验一致性。面对这些挑战，设计需要做积极转变。
+
+首先明确B与C的本质区别，将视野从个体扩大到组织，充分理解设计之于客户需要，以实现目标为导向。其次，转换设计模型，流程，方法，注重对业务的梳理，建立调理，也要善于学习行业的知识。最后，以开放的心态应对设计的动态变化，以更加灵活的姿态适应B端设计的特征。
+
+07 总结
+
+在C端市场趋向饱和，企业数字化转型拉开序幕之际，B端设计迅速成长为一个新的设计细分，吸引了无数设计同行的目光。B端设计是面向企业，以为企业创造价值为目标，基于组织，目标导向的设计范式。在目标人群，思维方式，产品形态，设计流程，方法等方面都与传统C端设计产生区别。B端设计给设计师带了全新的机会和挑战，需要设计师积极转变，在浪潮中找到最佳姿态。
+
+About
+
+08 参考资料
+
+\[1\]  百度百科\_B端
+
+\[2\] 白雲.下一站风口:B端蓝海\[J\].互联网经济,2018(07):10.
+
+\[3\]  程能林.工业设计概论
+
+\[4\]  奋斗de奶爸.从3个角度分析：为什么说B端产品和C端产品是2个物种？
+
+\[5\]  全面了解 B 端产品设计：基础扫盲篇
+
+\[6\]  美丽姐姐.B端产品设计工作流四步法
+
+\[7\]  沈一.全面深度解析如何从0到1设计B端产品
+
+\[8\]  杨小芳.如何提高B端设计师的“参与感”和核心价值？
+
+\[9\]  MBA智库\_商业画布
+
+\[10\]  Nielsen Norman Group. Service Blueprints
+
+\[11\]  百度百科\_业务流程图
+
+\[12\]  Atomic Design by Brad Frost
+
+\[13\]  Anne.B端产品设计的6大挑战
+ 

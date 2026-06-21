@@ -1,2 +1,11 @@
-<h1>{{category}}</h1>
-{{posts}}
+<div class="page-header">
+  <h1>{{category}}</h1>
+  <input type="checkbox" id="layout-toggle" class="layout-toggle-input" checked>
+  <label for="layout-toggle" class="layout-toggle-label" title="切换布局">
+    <span class="toggle-icon toggle-list">☰</span>
+    <span class="toggle-icon toggle-grid">▦</span>
+  </label>
+</div>
+<div class="post-list">
+  {{posts}}
+</div>

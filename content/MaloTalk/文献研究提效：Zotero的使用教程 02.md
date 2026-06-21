@@ -1,0 +1,212 @@
+---
+title: 文献研究提效：Zotero的使用教程 02
+date: 2023-03-19
+category: MaloTalk
+tags: []
+---
+
+**前言**
+
+* * *
+
+        无论是在学界还是在业界，文献（期刊、学位论文等）都是重要的研究资料。文献可以帮助我们了解某领域的知识，也能作为我们论证和下结论的依据，但这都建立在“大量”的基础上。文献管理，尤其在较短周期的项目中，显得非常重要。好的文献管理可以减少手动工作量，提升整个研究过程的效率。本系列文章的目的旨在介绍基于Zotero软件的文献管理办法，特别是在短期研究项目的应用，希望带给有文献研究需求的读者一些参考。
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibuficUodOAeIwEbhl3fzBXRzSl6VEic2avnmVc3MQFlSD3L9d9zY84PnxsVLLazbYEcNdEYxicxJxNdA/640?wx_fmt=png)
+
+本系列文章共两篇，上篇文章见：[文献研究提效：Zotero的使用教程 01](http://mp.weixin.qq.com/s?__biz=MzIwNzQyNTEzOQ==&mid=2247484053&idx=1&sn=177474410b97144d40f52897e33cc4b4&chksm=9713d989a064509f508789179b9cb97094f0503eee6589534b31c1c76f08445afb45174b2424&scene=21#wechat_redirect)
+
+        本篇文章将会讲到Zotero在文献研究流程中剩余步骤的应用（信息抽取与整合、撰写研究报告）。其中笔者注意要会谈及（1）制定分析框架（2）浏览与阅读文献（3）写文献笔记（4）引用参考文献这4个部分。阅读这篇文章可能帮你解决如下问题：
+
+*   我如何制定文献分析的框架?
+    
+      
+    
+*   我如何降低阅读英文文献的难度？
+    
+      
+    
+*   我可以如何写文献的笔记？
+    
+      
+    
+*   我如何高效地引用参考文献？
+    
+      
+    
+
+        在文末将会总结两篇文章提到的所有Zotero插件和简要的介绍，提供下载方式。
+
+**制定分析框架**
+----------
+
+* * *
+
+        分析框架相当于需要提取信息的清单，需要提取的信息包括2类，分别是文献的基本信息（元数据）和文献的内涵信息。这里的内涵数据也就是文献中的内容，需要提取哪些内容是由你的研究问题所决定，并且需要考虑一些其他因素（边界条件）。举HR寻找影响求职者意向的因素为例，你需要提取的内涵信息核心是影响因素，但是你可能还需要提取一些因素，譬如行业背景、面向人群等因素，因此它们可能彼此影响。
+
+        抱着以终为始的思想，在阅读文献之前，我们最好做出分析框架，然后带着目的去文献中提取信息。分析框架通常是一份表格。包括了文献的基本信息和内涵信息。使用Zotero可以快速完成这样的表格。
+
+        选中你需要导出的文献或分类，右键单击，在弹出的菜单中选择导出条目或分类。把导出的格式设定为CSV，这样你就会得到一份文献的基本信息表格，建议删除不需要的信息种类，保留最核心的信息，例如标题、作者、年代、文献种类、期刊来源等。
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibtfgQeVDkxh3CZq8JmyJ2MjWtCWib68lfD34PXQOribFxRdSOibyL0V4THdAibNCCRAHtwWXsWKQ1j4cw/640?wx_fmt=png)
+
+        在删减完基本信息之后，你可以在后面加上你要抽取的内涵信息类别。形成一份完整的框架，你可以在阅读文献的过程中，填充你的框架内容，作为你分析的基础。
+
+        另外还可以新建一个Sheet，在这个表格建立一个整合信息表，把同类的信息整合，来寻找共性和差异，形成研究结论。由于本文的重点是Zotero的运用，所以对文献研究的方法论不做展开讨论。
+
+**浏览与阅读文献**
+-----------
+
+* * *
+
+        Pdf类型的文献都可以Zotero中打开阅读，在Zotero的阅读窗口提供了很多基础的功能，例如调整视图大小、跳转页面等。在相对较长的文献中，可以多用搜索来定位到你想要看的内容。
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibtfgQeVDkxh3CZq8JmyJ2MjjKHtaCRlrk4v67yHSehjd80Av0ExfpLIvjmMbyQ3REOwRiaiack7CicicQ/640?wx_fmt=png)
+
+        在文献研究过程中难免遇到英文文献，可能需要消费较多时间在解决语言带来的困难上。Zotero pdf Translate可以帮助你降低阅读英文的压力。安装Zotero pdf Translate后，在你划选文献内容时，鼠标下方会出现悬浮窗，显示对应的翻译文本，同时它也会常驻在右侧的面板里。
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibtfgQeVDkxh3CZq8JmyJ2Mjic6C0v1VUDmLfBslJmZmYBEfv3oJB41kwPLH5Eqg5x3fUBOuw0jnXBQ/640?wx_fmt=png)
+
+        你可以在编辑>首选项里找到Translate选项卡，对这个插件做更多的设置，开启或者关闭其他功能，例如自动翻译批注。
+
+**写文献笔记**
+---------
+
+* * *
+
+        在阅读文献过程中，也许你会需要对文献内容进行标注，以及写笔记。使用Zotero可以很方便地做到这些。
+
+        （1）标注
+
+        Zotero提供了高亮标记、矩形框、便利贴三种标注方式，每种方式都可以赋予不同的颜色。你可以建立起自己的标注系统。例如粉色标记概念定义；黄色标记主要观点；蓝色标记方法论；绿色标记借鉴例句等。
+
+        所有的标注都可以在左侧的面板找到，你可以对标注的内容进行评论、贴标签。你可以搜索标注的内容，点击标注列表的项目，可以定位到文献的位置。
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibtfgQeVDkxh3CZq8JmyJ2Mj3C9l4aUbyGnmJ5eOQKibnzSPobHQNN38OekdM7a4S1w3ZcGrTMUGDpQ/640?wx_fmt=png)
+
+        （2）笔记
+
+        Zotero有两种独立笔记和条目笔记两种笔记，区别在于它们是否归属于某个条目。在你对文献进行了批注以后，你可以选择提取所有注释生成一篇条目笔记。在笔记中包括内容和原文定位的链接。Zoteor的笔记支持Markdown语法，你快速上手它，做一些简单的格式排版。
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibtfgQeVDkxh3CZq8JmyJ2MjWQKTSsPqvibiavSKJJCdsvXYcPIgib0utgCp0fhvWTvhw7vTneZxHqytw/640?wx_fmt=png)
+
+**引用参考文献**
+----------
+
+* * *
+
+        参考文献的引用可能是文献管理软件初衷之一，因为手工写引注和制作参考文献目录是非常低效、易出错的事情，尤其是对学界研究来说，动辄几百篇的参考文献，就更加困难。要解决这个问题，首先要制定样式、然后快捷写引注、最后自动生成参考文献目录，这些都可以交给Zotero来完成。
+
+        （1）制定参考文献样式
+
+        参考样式是对引注和参考文献目录的标准化的格式。在编辑>首选项>引用中，你会找到Zotero的样式管理器，里面已经内置了大量的参考文献样式，例如APA、IEEE等。你可以点击“获取更多样式”，在搜索框中输入“GB”，来获取我国文献的标准格式。如果你没找到符合你需求的样式，可以找到一个相近的样式，然后在它的基础上进行改编，这不会太难。
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibtfgQeVDkxh3CZq8JmyJ2Mjm9NhKLVOZOpxic66sLXHl6Pg510bzeyPFAx7arJqm4rf7sFXRaqiaN9A/640?wx_fmt=png)
+
+        （2）快捷引注
+
+        在写论文/报告的时候，我们希望快速留下来源的标记，而非真正的引注。因为引注的样式和顺序需要随着你的论文/报告而改变。因此我们通常是留下一个记号，当你的论文/报告基本修订完成后，再统一的插入引注。
+
+        那么如何做记号？相比于留下文献标题或者作者什么的，一个更好的办法是使用Better BibTex for Zotero插件，这个插件可以给每个条目生成一个独一无二的Citation key。你可以设置它的格式（在首选项内），例如第一作者名+年份。当你有了Citation key就可以使用这个key在论文/报告中做记号。
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibtfgQeVDkxh3CZq8JmyJ2MjmO0G8TAicgGA7FAGPkN7jcOYmMzUrEMS9GbttEgFngXfSSFG2lD0cEg/640?wx_fmt=png)
+
+        （3）自动生成参考文献目录
+
+        上文提到需要在最后统一插入引注，其实这部分和生成参考文献目录是同步进行的。Zotero支持的写作软件是Word，在Word中安装Zotero的附件（安装Zotero会自动安装），就可以开始使用。具体操作步骤可以参考如下：
+
+        ① 剪切你留下的Citation key。
+
+        ② 并在原来的位置点击“Add/Edit Citation”
+
+        ③ 在弹出的查找文件搜索框内粘贴Citation key。
+
+        ④ 点选你需要引用的文章。可以粘贴、查找、添加多条文献。
+
+        ⑤ 将鼠标移动到参考文献目录的位置，最后点击“Add/Edit Bibliography”，如果后续有改动，可以点击“refresh”更新。
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2V40UerANibtfgQeVDkxh3CZq8JmyJ2MjppD22JlcN6n99ibRWTNdbbWhT55ZDtEnzgNN2UNP3oQ3yiabubxVfCOA/640?wx_fmt=png)
+
+**附：关于条目的导出**
+-------------
+
+* * *
+
+        在文中笔者介绍了元数据的导出，这里选择CSV格式，用于生成表格。其实你也可以导出其他格式做其他用途，例如导出为RIS格式，然后导入Vosviewer进行文献计量分析。
+
+        在个别时候，你可能需要想想办法导出文献全文，并且还要修改文件名，例如你的导师/主管要求你把所有文献的全文整理好后发给他（他不想使用Zotero）。这个场景有两个困难：1、Zotero无法导出分类中的全文；2、命名需要大量的手工。这时你可能需要学习一个特别难的插件：Zotfile。Zotfile可以帮你移动文献位置、根据元数据批量重命名，鉴于这个场景在项目中比较少，再次不多做介绍，感兴趣的读者可以自行了解。
+
+**总结**
+------
+
+* * *
+
+        在这个系列中，笔者整理了Zotero在文献研究中应用，简要描述了一些实用功能、使用技巧和插件。由于精力和水平有限，想要面面俱到便无法深入和具体地展开讨论，其中更多的内容还需要读者结合自己的研究习惯去探索。最后，感谢读者的耐心读完我的文章，如有建议，欢迎留言。
+
+附上本系列文章所提到的所有Zotero插件，打包下载链接：https://share.weiyun.com/N7Dh9WQR （需复制打开）
+
+插件名称
+
+插件用途
+
+网址
+
+实用性
+
+Translators
+
+从中文网页中抓取元数据生成条目
+
+https://github.com/l0o0/translators\_CN
+
+10/10
+
+Jasminum
+
+通过pdf文件抓去中文文献的元数据
+
+https://github.com/l0o0/jasminum
+
+10/10
+
+Sci-Hub Plugin for Zotero
+
+通过 Sci-Hub 获取文献全文
+
+https://github.com/ethanwillis/zotero-scihub
+
+7/10
+
+Zotero Style
+
+修改界面样式，提供更美观的视觉
+
+https://github.com/MuiseDestiny/zotero-style
+
+7/10
+
+Zotero PDF Translate
+
+提供翻译功能，辅助阅读
+
+https://github.com/windingwind/zotero-pdf-translate
+
+8/10
+
+ZotFile
+
+管理 PDF 附件，包括重命名、移动、复制和发送附件等功能
+
+https://github.com/jlegewie/zotfile
+
+5/10
+
+Better BibTex for Zotero
+
+提供更高效和更强大的 BibTeX 导出功能，适用于 LaTeX 用户等需求
+
+https://github.com/retorquere/zotero-better-bibtex
+
+9/10
+
+注：① 在第一文章中提到利用Sci-hub查找全文可以通过Sci-Hub Plugin for Zotero插件实现；② 实用程度评分为个人主观评分，仅供参考。
+ 

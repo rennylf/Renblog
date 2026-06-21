@@ -49,18 +49,32 @@ const postTpl = read("post.html");
 const categoryTpl = read("category.html");
 const aboutTpl = read("about.html");
 
-// Parse all markdown files
+// Recursively collect markdown files from content/ and subdirectories
+function collectFiles(dir, base = "") {
+  const result = [];
+  const entries = fs.readdirSync(dir, { withFileTypes: true });
+  for (const e of entries) {
+    if (e.name === "about.md") continue;
+    const full = path.join(dir, e.name);
+    const rel = base ? `${base}/${e.name}` : e.name;
+    if (e.isDirectory()) {
+      result.push(...collectFiles(full, rel));
+    } else if (e.name.endsWith(".md")) {
+      result.push(rel);
+    }
+  }
+  return result;
+}
+
 const posts = [];
-const files = fs
-  .readdirSync(CONTENT)
-  .filter((f) => f.endsWith(".md") && f !== "about.md");
+const files = collectFiles(CONTENT);
 
 for (const file of files) {
   const raw = fs.readFileSync(path.join(CONTENT, file), "utf8");
   const { data, content } = matter(raw);
   const cat = CATEGORIES.find((c) => c.name === (data.category || ""));
   posts.push({
-    slug: slugify(file),
+    slug: slugify(path.basename(file)),
     title: data.title || "无标题",
     date: data.date ? new Date(data.date).toISOString().split("T")[0] : "",
     content: md.render(content),
@@ -174,9 +188,6 @@ fs.writeFileSync(
 );
 
 // Copy static
-const staticFiles = fs.readdirSync(STATIC);
-for (const f of staticFiles) {
-  fs.copyFileSync(path.join(STATIC, f), path.join(OUTPUT, f));
-}
+fs.cpSync(STATIC, OUTPUT, { recursive: true });
 
 console.log(`Built ${posts.length} post(s), ${CATEGORIES.length} category page(s) → output/`);
